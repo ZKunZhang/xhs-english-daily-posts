@@ -1,0 +1,43 @@
+日期：2026-06-22
+
+发布标题：
+unless 和 if not 一句话分清
+
+标题备选：
+1. unless 和 if not 一句话分清
+2. unless 后面别再重复写 not
+3. unless 原来就带否定
+
+发布正文：
+`unless` 这个词最容易让人多写一个 `not`。因为它本身就带着 `if ... not` 的意思。
+
+`unless` = `if ... not`
+
+一句话分清：看到 `unless`，后面通常接肯定形式，不要再重复否定。
+
+对比：
+You won't pass unless you work hard.
+= You won't pass if you do not work hard.
+
+例句：
+I won't go unless he invites me.
+Unless it rains, we will play outside.
+
+再注意一个高考常考点：`unless` 引导条件状语从句时，常遵循“主将从现”。
+
+封面提示词：
+小红书高考英语连接词封面，竖版3:4，倒计时和试卷元素，红笔划掉 unless you don't work hard，绿色写 unless you work hard。封面大字：unless自带否定。副标题：别再重复加not。高三冲刺错题风。
+
+配图提示词：
+统一风格：高考英语连接词错题笔记，竖版3:4，米白纸、红色叉号、绿色对勾、黄色高亮、冲刺感。
+图1：题目页，写 You won't pass unless you ___ hard. A. work B. don't work。
+图2：答案页，写 答案：work。unless 已经表示 if not。
+图3：规则页，写 unless = if ... not，后面通常接肯定形式。
+图4：例句页，写 I won't go unless he invites me. / Unless it rains, we will play outside.
+图5：避错页，写 unless 不要和 not 重复否定；主将从现也要注意。
+
+标签内容：
+#2026高考季 #2026高考加油 @校园薯 #高考英语 #英语连接词 #英语易错点 #高三冲刺
+
+评论引导：
+Unless it rains, we will go. 这句怎么翻？
