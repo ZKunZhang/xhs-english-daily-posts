@@ -1,3 +1,0 @@
-display_name: XHS Twitter Content
-short_description: Turn X posts into XHS content tables with image prompts.
-default_prompt: Convert Twitter/X English-learning content into Xiaohongshu content tables. For dated batches, create one Markdown table file in outputs/, with one row per post and columns for title options, card copy, caption, tags, and image prompts.

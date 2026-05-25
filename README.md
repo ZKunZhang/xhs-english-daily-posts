@@ -16,23 +16,23 @@
 - 不直接搬运原推文，用中文学习场景重新包装。
 - 保留“先猜答案”的互动感，但增加中文解释和记忆口诀。
 - 封面只放一个问题或一个易错点，避免信息过满。
-- 正文用“题目 -> 答案 -> 规则 -> 例句 -> 互动”的固定结构。
+- 正文用“题目 -> 答案 -> 规则 -> tense 角度解释 -> 例句 -> 互动”的固定结构；遇到时态、动作先后或 `to do/doing` 这类题时，要明确解释为什么用这个形式。
 - 标题突出痛点：介词总错、考试常考、口语更地道、90% 人会选错。
 
 ## 目录
 
-- `prompts/twitter_to_xhs_prompt.md`：把推文改写成小红书笔记的提示词。
-- `prompts/xhs_contrast_series_prompt.md`：强对比辨析系列表格生成提示词。
-- `templates/xhs_post_template.md`：通用小红书内容表模板。
-- `templates/xhs_contrast_title_image_template.md`：强对比标题和图片提示词模板。
-- `skills/xhs-twitter-content/`：小红书英语内容改写规范和参考资料。
-- `outputs/README.md`：历史内容包目录和后续表格输出规范。
-- `outputs/强对比辨析系列_内容表模板.md`：后续表格输出模板。
+- `小红书英语笔记/07_模板素材/prompts/twitter_to_xhs_prompt.md`：把推文改写成小红书笔记的提示词。
+- `小红书英语笔记/07_模板素材/prompts/xhs_contrast_series_prompt.md`：强对比辨析系列表格生成提示词。
+- `小红书英语笔记/07_模板素材/templates/xhs_post_template.md`：通用小红书内容表模板。
+- `小红书英语笔记/07_模板素材/templates/xhs_contrast_title_image_template.md`：强对比标题和图片提示词模板。
+- `小红书英语笔记/07_模板素材/强对比辨析系列_内容表模板.md`：后续表格输出模板。
+- `小红书英语笔记/07_模板素材/说明文档/outputs_README.md`：历史输出结构说明。
+- `小红书英语笔记/outputs/README.md`：当前批量输出目录和后续表格输出规范。
 
 ## 后续输出格式
 
 ```text
-outputs/
+小红书英语笔记/outputs/
   README.md
   强对比辨析系列_YYYY-MM-DD_YYYY-MM-DD.md
 ```
@@ -43,12 +43,12 @@ outputs/
 发布标题｜标题备选1｜标题备选2｜标题备选3｜图片提示词｜发布内容｜标签｜评论
 ```
 
-历史 `outputs/基础语法系列/` 和 `outputs/强对比辨析系列/` 下的日期文件夹保留，不作为后续新增内容的默认格式。
+历史输出说明见 `小红书英语笔记/07_模板素材/说明文档/outputs_README.md`，不作为后续新增内容的默认格式。
 
 ## 使用流程
 
 1. 把一条英文推文或截图中的文字贴进提示词。
-2. 按模板生成 `outputs/` 下的 Markdown 表格。
+2. 按模板生成 `小红书英语笔记/outputs/` 下的 Markdown 表格。
 3. 多天内容一行一篇，不再按日期建立独立文件夹。
-4. 检查封面、卡片、标题、图片提示词、标签是否完整。
+4. 检查封面、卡片、标题、图片提示词、标签是否完整；涉及时间线的题，补齐 `tense` 角度解释。
 5. 发布时把答案放在第 2 页或评论区，提升互动。
