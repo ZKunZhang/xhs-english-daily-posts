@@ -21,6 +21,8 @@
 
 ## 目录
 
+- `小红书英语笔记/README.md`：项目内主入口，说明各目录用途和使用顺序。
+- `小红书英语笔记/03_待发布/00_排期与批次/当前排期.md`：当前唯一执行排期。
 - `小红书英语笔记/07_模板素材/prompts/twitter_to_xhs_prompt.md`：把推文改写成小红书笔记的提示词。
 - `小红书英语笔记/07_模板素材/prompts/xhs_contrast_series_prompt.md`：强对比辨析系列表格生成提示词。
 - `小红书英语笔记/07_模板素材/templates/xhs_post_template.md`：通用小红书内容表模板。
@@ -55,4 +57,10 @@
 
 
 
-参考下 https://space.bilibili.com/1607984338 这里有的内容跟我符合 还有 https://space.bilibili.com/104554280 https://space.bilibili.com/487539453
+## 参考素材入口
+
+- https://space.bilibili.com/1607984338
+- https://space.bilibili.com/104554280
+- https://space.bilibili.com/487539453
+
+这些链接只做选题和题型参考，不直接搬运原视频内容。
