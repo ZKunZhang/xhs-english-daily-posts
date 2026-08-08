@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书英语视觉导演"
+  short_description: "将英语辨析稿稳定转换为统一、可复用的五页小红书视觉方案"
+  default_prompt: "Use $xhs-english-visual-director to turn this approved English contrast draft into a consistent five-page Xiaohongshu visual plan."
