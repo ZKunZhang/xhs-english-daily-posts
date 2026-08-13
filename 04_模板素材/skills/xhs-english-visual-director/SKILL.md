@@ -14,7 +14,7 @@ description: Convert an approved English contrast draft into a consistent five-p
 - `../../templates/xhs_visual_system.md`：账号视觉母版和验收标准。
 - `../../templates/xhs_contrast_title_image_template.md`：固定 5 页任务和封面规则。
 
-再读取目标目录中的 `完整发布稿.md`。如果该文件不存在，读取用户指定的最终稿；不要自行补写尚未确认的英语规则。
+再读取一级平铺的目标 `*_发布内容.md`。如果该文件不存在，读取用户指定的最终稿；不要自行补写尚未确认的英语规则。
 
 ## 工作流
 
