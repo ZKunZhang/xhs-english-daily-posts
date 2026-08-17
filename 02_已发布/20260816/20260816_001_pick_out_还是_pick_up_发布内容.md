@@ -1,4 +1,4 @@
-# 2026-08-19｜pick out 还是 pick up
+# 2026-08-16｜pick out 还是 pick up
 
 ## 选题判断
 
