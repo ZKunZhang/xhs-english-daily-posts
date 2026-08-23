@@ -7,6 +7,10 @@ description: Convert an approved English contrast draft into a consistent five-p
 
 把已确认的英语辨析稿转换为固定风格、可复现的 5 页图文。内容正确性由发布稿负责；本 Skill 只负责视觉转译、一致性与验收。
 
+## 风格优先级
+
+本 Skill 是本项目日更唯一视觉入口。`../../templates/xhs_visual_system.md` 和既有近 7 篇提示词高于任何通用小红书设计经验。不得为了“更吸引人”擅自改成广告海报、撕纸拼贴、满版大字、夸张人物情绪或高冲突爆款模板；吸引力只能通过更清楚的同场景动作、具体后果、构图层级和手机端可读性增强。
+
 ## 开始前
 
 完整阅读：
@@ -14,7 +18,7 @@ description: Convert an approved English contrast draft into a consistent five-p
 - `../../templates/xhs_visual_system.md`：账号视觉母版和验收标准。
 - `../../templates/xhs_contrast_title_image_template.md`：固定 5 页任务和封面规则。
 
-再读取一级平铺的目标 `*_发布内容.md`。如果该文件不存在，读取用户指定的最终稿；不要自行补写尚未确认的英语规则。
+再读取目标日期目录中的 `*_发布内容.md`。如果该文件不存在，读取用户指定的最终稿；不要自行补写尚未确认的英语规则。
 
 ## 工作流
 
@@ -37,6 +41,7 @@ description: Convert an approved English contrast draft into a consistent five-p
 - 第 4 页不出现答案或勾叉；第 5 页复用第 4 页场景和裁切，只增加答案、高亮和理由。
 - 不默认提问。仅当缺少最终稿、A/B 场景或必要素材且合理假设会改变结果时，最多询问 1–3 个关键问题。
 - 不生成 3 套风格方案，不采用深色科技、玻璃拟态、PPT 或 Notion 模板风。
+- 不调用或模仿通用小红书封面、信息图、HTML 卡片 Skill；不使用与最近成稿断裂的新视觉体系。
 
 ## 母版锁定前缀
 
