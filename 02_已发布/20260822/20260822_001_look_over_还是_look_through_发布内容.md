@@ -11,19 +11,19 @@
 
 ## 发布标题
 
-都是“看文件”，一个检查，一个翻着找
+look over 和 look through：检查还是翻找？
 
 ## 封面文案
 
-`look over` / `look through`
+看同一份文件
 
-整体检查
+`look over`：检查
 
-逐页翻看
+`look through`：翻找
 
 ## 发布正文
 
-老板让你“看一下文件”，可能是检查，也可能是从一叠材料里翻找。
+老板让你“看一下文件”，先别急着都说 `look at`：检查错误和翻找信息，动作并不一样。
 
 `Could you look over my report for mistakes?`
 
@@ -33,7 +33,7 @@
 
 她翻看文件寻找收据。重点是逐份或逐页查看，用 `look through`。
 
-一句话记住：`over` 看整体并检查，`through` 从材料中穿过去翻看。
+一句话记住：`over` 强调整体检查，`through` 强调翻阅材料；实际使用会有重叠，不要死记成绝对互斥。
 
 先别看答案：
 

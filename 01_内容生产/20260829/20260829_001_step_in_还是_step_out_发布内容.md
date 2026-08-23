@@ -1,10 +1,18 @@
 # 发布标题
 
-都是“走一下”，一个进来，一个暂时出去
+step in 是进来，step out 是出去一下
+
+# 封面文案
+
+同一扇门
+
+请进来
+
+还是出去一下？
 
 # 发布正文
 
-同一扇门，脚跨过门槛的方向不同，短语也不同。
+同一扇门，跨进来可以说 step in，临时出去一下可以说 step out。
 
 Please step in and have a seat.
 
@@ -16,15 +24,17 @@ I need to step out for a minute.
 
 一句话记住：
 
-step in = 走进来；也可以表示介入
+step in = 走进来；也常表示介入、出面帮忙
 
-step out = 暂时出去
+step out = 暂时离开当前空间
 
 先别看答案：
 
 1. Please ___; the doctor is ready.
 2. She ___ to take a call.
 
+评论区只写 1.___ 2.___，第二题注意使用过去式。
+
 #英语学习 #英语口语 #日常英语 #英文表达 #英语短语 #英语笔记
 
-自发评论：答案是 1. step in  2. stepped out。看脚跨门槛的方向。
+自发评论：会议中出去接一分钟电话，选 A. step in 还是 B. step out？只回 A 或 B。
