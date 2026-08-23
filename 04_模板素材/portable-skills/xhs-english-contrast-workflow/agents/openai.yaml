@@ -1,8 +1,0 @@
-interface:
-  display_name: "小红书英语强对比工作流"
-  short_description: "基于已发布样本审计，生成强对比文案、封面和五页配图"
-  brand_color: "#8FA99A"
-  default_prompt: "使用 $xhs-english-contrast-workflow，根据已发布样本为指定英语 A/B 选题完成文案、封面确认和五页配图。"
-
-policy:
-  allow_implicit_invocation: true
