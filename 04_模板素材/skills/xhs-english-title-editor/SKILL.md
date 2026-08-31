@@ -12,6 +12,7 @@ description: Create or revise the publishing title and three-line cover copy for
 完整读取：
 
 - `../../templates/xhs_contrast_title_image_template.md`
+- `../../templates/xhs_engagement_conversion_template.md`
 - `../../../05_账号定位/账号定位.md`
 - 目标 `*_发布内容.md` 或用户确认的规则与例句
 
@@ -21,6 +22,7 @@ description: Create or revise the publishing title and three-line cover copy for
 2. 后果型标题优先；动作对比型其次；“原来不一样”只作保底。
 3. 检查标题能否由正文完全兑现，是否把倾向夸大成绝对规则。
 4. 封面只保留完整 A/B 和两个短动作，总体不超过三个信息组。
+5. 互动型内容可用具体场景问题做发布标题；完整 A/B 仍保留在封面。避免标题、封面和正文首段连续三次讲完同一答案映射。
 
 ## 禁止
 

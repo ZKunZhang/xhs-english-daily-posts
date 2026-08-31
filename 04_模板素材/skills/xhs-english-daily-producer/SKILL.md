@@ -14,6 +14,7 @@ description: Create one production-ready daily Xiaohongshu post for this reposit
 - `../../../README.md`
 - `../../../05_账号定位/账号定位.md`
 - `../../templates/xhs_post_template.md`
+- `../../templates/xhs_engagement_conversion_template.md`
 - `../../templates/xhs_contrast_title_image_template.md`
 - `../../../03_数据复盘/README.md`
 
@@ -25,10 +26,11 @@ description: Create one production-ready daily Xiaohongshu post for this reposit
 2. 按 `xhs_post_template.md` 的六项门槛评分。低于 5 分、伪对比、单点错句或无法可视化的选题停止落稿。
 3. 核对 A/B 都是自然成立的高频表达；若存在重叠，明确写成常见倾向，不制造唯一规则。
 4. 先写具体生活后果，再写标题、例句、每句的场景判据、规则、自测、评论指令、标签和自发评论。
-5. 自测必须有排他答案；第 4 页不剧透，第 5 页才给答案。
-6. 正文和自发评论只保留一个主要互动动作，不同时要求填空与 A/B 投票。
-7. 交给 `xhs-english-visual-director` 生成图片提示词；不得调用通用小红书视觉风格替换账号母版。
-8. 保存到计划发布日期目录，仅创建：
+5. 自测必须有排他答案；第 4 页不剧透，第 5 页完整给答案，不靠扣留答案换评论。
+6. 按本篇角色选择一个主互动：个人选择、用户造句批改、中文场景征集、答案加理由或下期投票。正文和自发评论服务同一个目标。
+7. 正文结尾写明账号持续价值，并预告排期中的下一篇具体场景；没有已确认排期时不虚构预告。
+8. 交给 `xhs-english-visual-director` 生成图片提示词；不得调用通用小红书视觉风格替换账号母版。
+9. 保存到计划发布日期目录，仅创建：
    - `YYYYMMDD_序号_知识点_发布内容.md`
    - `YYYYMMDD_序号_知识点_图片提示词.md`
 
@@ -42,6 +44,6 @@ description: Create one production-ready daily Xiaohongshu post for this reposit
 
 ## 完成检查
 
-- 去重、评分、英语自然度、标题兑现、自测排他性全部通过。
+- 去重、评分、英语自然度、标题兑现、自测排他性和互动收益全部通过。
 - 两个 Markdown 文件同名同目录，知识点 slug 一致。
 - 图片提示词严格固定五页，并引用现有视觉系统而非新造画风。
