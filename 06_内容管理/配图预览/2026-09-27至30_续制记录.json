@@ -1,0 +1,114 @@
+[
+  {
+    "day": "20260927",
+    "n": 2,
+    "prompt": "Use case: scientific-educational. 制作一张小红书英语教学笔记图，竖版3:4，目标1080×1440。奶油色浅横线纸，自然窗光，近俯拍，木桌只露少量边缘。自然清楚的蓝黑圆珠笔手写中英文，少量浅绿/浅黄划线，简洁有语义的线稿。不用印刷体海报、贴纸、文具堆叠、品牌或密集排线。文字左右8%、顶部7%、底部10%安全区。全部文字逐字准确，允许换行不允许改词；英文清晰大字，中文清晰不连笔，手机阅读优先。 本篇主体与场景：蓝黑圆珠笔线稿，一个短发年轻人。封面一个大闹钟和小旅行包形成对照；图2上方同一年轻人早晨在床上睡着，时钟显示10:00，下方晚上拎小包在朋友家客卧铺床。时间和留宿都须有明确证据。\n本页是第2页。上下两组自然例句和具体画面，语义对应，英语不能漏词。\n继承：纸张、蓝黑笔迹、主体、机位和光线。本页只改变：补充两种动作及其例句。\n具体画面：蓝黑圆珠笔线稿，一个短发年轻人。封面一个大闹钟和小旅行包形成对照；图2上方同一年轻人早晨在床上睡着，时钟显示10:00，下方晚上拎小包在朋友家客卧铺床。时间和留宿都须有明确证据。\n图上只出现以下文字（不得画此说明）：同样是睡觉，重点不同\nI slept in on Sunday.\n周日睡了个懒觉\nI slept over at Mia's.\n在 Mia 家住了一晚\n",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-26bdd1d3-15f3-416a-94da-e5b812ede388.png"
+  },
+  {
+    "day": "20260927",
+    "n": 3,
+    "prompt": "生成一张3:4竖版英语教学笔记，目标1080×1440。奶油浅横线纸近俯拍，自然窗光，蓝黑圆珠笔清晰手写中英文，少量浅绿浅黄划线；简笔画辅助，文字优先，左右8%、顶部7%、底部10%安全区。不要品牌、装饰贴纸或额外文字。规则页以文字为主，下方一个短发年轻人在朋友家客卧睡懒觉的小线稿，清楚表达两个动作可同时成立。\n只写以下文字：\n一个看时间，一个看留宿\nsleep in → 比平时晚起\nsleep over → 在别人家过夜\n留宿后也可以睡懒觉。\n两件事可以同时发生。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-393404c2-db08-4cff-b1bb-86ab1c2fe355.png"
+  },
+  {
+    "day": "20260927",
+    "n": 4,
+    "prompt": "生成一张3:4竖版英语教学笔记，目标1080×1440。奶油浅横线纸近俯拍，自然窗光，蓝黑圆珠笔清晰手写中英文，少量浅绿浅黄划线；简笔画辅助，文字优先，左右8%、顶部7%、底部10%安全区。不要品牌、装饰贴纸或额外文字。两道自测上下排列、选项同样式，无答案勾叉或高亮。上题小图：短发年轻人在床上休息旁边闹钟；下题小图：同一年轻人拎过夜包站在朋友家门口。\n只写以下文字：\n试着补全句子\n选 sleep in / sleep over\n1. 明天休息，想比平时晚起。\nI want to ___ tomorrow.\n2. 今晚在朋友家住一晚。\nCan I ___ at your place?",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-70dda036-c666-49ef-83ba-765cdf9dd641.png"
+  },
+  {
+    "day": "20260927",
+    "n": 5,
+    "prompt": "生成一张3:4竖版英语教学笔记，目标1080×1440。奶油浅横线纸近俯拍，自然窗光，蓝黑圆珠笔清晰手写中英文，少量浅绿浅黄划线；简笔画辅助，文字优先，左右8%、顶部7%、底部10%安全区。不要品牌、装饰贴纸或额外文字。将参考自测页改成答案页。保持两个小插画、人物、机位、纸张和裁切不变，只替换文字并填写答案，英文句子可以分行。图上准确文字：\n核对答案\n1. I want to sleep in tomorrow.\n重点：比平时晚起。\n2. Can I sleep over at your place?\n重点：在朋友家留宿。\n记住：时间 / 留宿",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-940806df-abc8-4652-b4f6-7211d9643366.png"
+  },
+  {
+    "day": "20260928",
+    "n": 2,
+    "prompt": "制作3:4竖版奶油横线纸英语笔记，蓝黑圆珠笔手写，浅绿划线，8%留白。上下两幅简笔画：短发女员工想走，领带男经理要求留；同一员工想留，经理同意。背景极简，无墙画、标牌、杯子文字。准确写出且只写出：\n同一个 stay，原因不同\nThe manager made me stay.\n我想走，但必须留下。\nThe manager let me stay.\n我想留，经理同意了。",
+    "correction": "仅移除两幅办公室插画内的所有英文标语、门牌字、杯子字、纸堆字，留空白墙面门杯子纸堆。保留顶部标题和四行教学文字、人物及动作，一字不改。保持蓝黑笔迹、奶油横线纸和3:4。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-d7332050-4c65-43e4-a56e-b474a3f8db1e.png"
+  },
+  {
+    "day": "20260928",
+    "n": 3,
+    "prompt": "竖版3:4奶油横线纸手写笔记。蓝黑笔迹与浅绿划线，大字清楚，留白8%。下方画一个短发女生听笑话发笑的小线稿，不加其他文字。准确写出：\n看动作为什么发生\nmake → 促使、迫使\nlet → 允许、不阻止\nmake 不一定是强迫：\nThe joke made me laugh.\n笑话逗笑了我。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-7ec8def0-df64-4d2a-a7e4-e895835c1bfb.png"
+  },
+  {
+    "day": "20260928",
+    "n": 4,
+    "prompt": "竖版3:4奶油横线纸手写自测页，蓝黑笔迹、浅绿划线，大字清楚，安全留白8%。上下两题右侧小线稿：相同短发女员工和领带男经理，上员工提包想走，经理指工作要求留；下员工请求留，经理同意。不要额外文字，不标答案，不用勾叉。准确文字：\n按语境填 made / let\n1. 昨天我想走，经理却要求我留下。\nThe manager ___ me stay.\n2. 昨天我请求留下，经理同意了。\nThe manager ___ me stay.",
+    "correction": "修改参考图：顶部加标题「按语境填 made / let」，原有两题文字逐字保留。缩小两组插画，保持人物与动作，改成蓝黑圆珠笔线稿，去掉纸张左侧打孔。奶油横线纸，竖版3:4，所有内容留白8%。不要答案。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-b034c7bc-09e8-46c7-9d8d-d8c9e4592aef.png"
+  },
+  {
+    "day": "20260928",
+    "n": 5,
+    "prompt": "保持最近这张自测图的两组蓝黑插画、横线纸和上下布局，改成答案页。只把文字换成下面内容，可分行，不能漏词：\n核对答案\n1. The manager made me stay.\n想走却必须留 → made\n2. The manager let me stay.\n请求后获准留下 → let\n主动结构：make / let + 人 + 动词原形",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-71cbb742-af69-4da0-ad00-c384ebdeb0f4.png"
+  },
+  {
+    "day": "20260929",
+    "n": 2,
+    "prompt": "竖版3:4奶油横线纸手写英语笔记，蓝黑圆珠笔、浅绿划线，大字清楚，安全留白8%。上下两组同款帆布鞋线稿：上鞋完好但比旁边的脚短，脚长大穿不下；下鞋仍合脚但鞋底磨破。只写：\n同一双鞋，两种变化\nHe grew out of his shoes.\n脚长大了，鞋还完好。\nHe wore out his shoes.\n大小合适，鞋底磨破了。",
+    "correction": "只修正参考图上半部的插画：把脚从鞋里拿出来，画一只裸脚侧视轮廓，旁边一只明显比脚短的完整帆布鞋，说明脚长大鞋穿不下，鞋子不能有破损。所有教学文字与下半部磨破鞋的插画、布局、蓝黑笔迹、纸张完全保留，3:4。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-0f312e23-00fd-4a98-a8a5-0d88192dc649.png"
+  },
+  {
+    "day": "20260929",
+    "n": 3,
+    "prompt": "3:4竖版奶油横线纸手写笔记，蓝黑圆珠笔、大字、浅绿划线，安全留白8%。文字为主，小图辅助：一只裸脚旁放一只明显更短的完好帆布鞋，另一只鞋底磨破。只写以下文字：\n先找变化的原因\ngrow out of → 人长大，不合身\nwear out → 用得多，磨损坏\n这里讲鞋服场景，\n不是这两个短语的全部用法。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-fc52fca5-8781-4303-8eed-82061e0e5f8d.png"
+  },
+  {
+    "day": "20260929",
+    "n": 4,
+    "prompt": "3:4竖版奶油横线纸蓝黑圆珠笔手写自测页，浅绿划线，清楚大字，安全留白8%。上下两题右侧小线稿：上方一只赤脚和明显更小的完好帆布鞋并排，脚不穿鞋；下方一只合脚但鞋底磨破的同款鞋。不加答案或勾叉，完整写出标题和全部文字：\n选短语，并用过去式\ngrow out of / wear out\n1. 鞋还完好，但他的脚长大了。\nHe ___ his shoes.\n2. 鞋仍合脚，但被他穿破了。\nHe ___ his shoes.",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-6d92138c-4b52-485c-8684-d950d25e0c10.png"
+  },
+  {
+    "day": "20260929",
+    "n": 5,
+    "prompt": "将参考自测页改成答案页，保留两组鞋子和脚的蓝黑线稿、纸张、布局。只替换文字，3:4，大字清楚，安全留白8%。准确写出：\n核对答案\n1. He grew out of his shoes.\n人长大了，尺寸不再合适。\n2. He wore out his shoes.\n反复穿用，鞋子磨损坏了。\n记住：人长大 / 物磨损",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-b78c39ac-f1db-4afa-8e29-398b13d9e536.png"
+  },
+  {
+    "day": "20260930",
+    "n": 2,
+    "prompt": "Make a portrait 3:4 handwritten English study page on cream lined notebook paper, dark blue pen, pale green highlights, generous margins. Two simple drawings: hand returning a white mug to a table; hand storing the same mug in a cupboard. Render this exact text legibly, no other text:\n同一个杯子，两种重点\nPut the cup back on the table.\n桌子是刚才拿起它的地方。\nPut the cup away in the cupboard.\n用完后，收进橱柜。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-dac08cee-0b7e-4efd-986f-20f47900d521.png"
+  },
+  {
+    "day": "20260930",
+    "n": 3,
+    "prompt": "竖版3:4奶油横线纸蓝黑笔手写规则页，浅绿划线，大字清楚，8%安全留白。下方小线稿：同一个杯子从桌面收入橱柜。不得写额外文字。逐字写：\n回原处 / 收纳好\nput back → 放回原来的位置\nput away → 放到收纳的位置\n原处就是收纳处时，\n两种说法都可以。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-b3a62ac9-df0a-4ebf-93b1-c85e269761bc.png"
+  },
+  {
+    "day": "20260930",
+    "n": 4,
+    "prompt": "Portrait 3:4 English quiz page on cream lined notebook paper. Legible handwritten dark blue pen, pale green headings, 8% margins. Two tiny sketches: hand placing white mug on table; same hand placing same mug inside cupboard. No answers, no checkmarks. Render ALL exact text below, including heading and options:\n选更直接表达重点的词\nback / away\n1. 杯子从桌上拿起，现强调放回原处。\nPut the cup ___ on the table.\n2. 杯子洗净，现强调用完收纳。\nPut the cup ___ in the cupboard.",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-228b2a5a-6dc1-40ec-8527-744797f363e8.png"
+  },
+  {
+    "day": "20260930",
+    "n": 5,
+    "prompt": "保留参考图的两个杯子场景、纸张和布局，只换为答案页文字：\n核对答案\n1. Put the cup back on the table.\nback 更直接强调回原处。\n2. Put the cup away in the cupboard.\naway 更直接强调收纳好。\n若橱柜也是原处，back 也成立。\n3:4竖版，蓝黑手写，英语可换行不能漏词。",
+    "correction": null,
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0e57a-6ea5-71a2-92d7-34529d70e24c/exec-a32066ce-ffc1-4eca-9c5e-1b1115f58b84.png"
+  }
+]

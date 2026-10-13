@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-03",
+  "mode": "复核并行会话已修正封面",
+  "images": [
+    {
+      "file": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_001_send_back_还是_send_out_封面.png",
+      "reviewed_on": "2026-10-03",
+      "status": "实图通过",
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "948ef6d22f35d1ce2713b0ca7ca85953523fc1017ce5f3ff33edfb531190a802",
+      "note": "检查过程中发现封面由另一会话更新；新版退货箭头已从买家/包裹指向商店。本轮查看并复核通过，复用该新版，未重复生成或覆盖。已复查封面文字及右侧邀请函分发方向。\n\n状态：封面实图通过；其他页沿用制作清单各自状态。"
+    }
+  ],
+  "executed_edit_prompts": [],
+  "backups": [
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_001_send_back_还是_send_out_图片提示词.md",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_制作素材/20261003_183026_局部修正/20261022_001_send_back_还是_send_out_图片提示词.md",
+      "sha256": "aee8f92fae0ee317951849cea003949900f63fc22d37ef74c8790f207a0d9a53"
+    },
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_制作素材/制作清单.json",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_制作素材/20261003_183026_局部修正/制作清单.json",
+      "sha256": "9b8d5c26cc729f4820cf2fceb39a6fa475efd92d7cf27fe68156895b86f698dc"
+    },
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_001_send_back_还是_send_out_封面.png",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261022/20261022_制作素材/20261003_183026_局部修正/20261022_001_send_back_还是_send_out_封面.png",
+      "sha256": "948ef6d22f35d1ce2713b0ca7ca85953523fc1017ce5f3ff33edfb531190a802"
+    }
+  ],
+  "dimensions_note": "沿用原生1086×1448，3:4；未重采样为目标1080×1440。",
+  "publication_status": "本轮未更改发布状态"
+}

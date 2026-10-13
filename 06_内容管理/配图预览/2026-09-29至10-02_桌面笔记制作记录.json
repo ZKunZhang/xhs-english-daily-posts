@@ -1,0 +1,351 @@
+{
+  "date": "2026-09-28",
+  "scope": "09-29—10-02四篇完整五图；10-09—16仅提示词同步",
+  "tool": "内置imagegen",
+  "master": "生成一张3:4竖版英语学习笔记照片，目标1080×1440。普通浅色横线本摊在浅灰米色桌面，本子约占画宽80%—88%，近俯拍略偏移，露出装订、少量另一页、纸页厚度和桌面；一支普通黑色按动笔自然放在旁边，长度约页高六成，不遮字、不堆文具。柔和自然窗光、轻微接触阴影，纸面平滑，避免夸张纸纹、复古滤镜、精修产品光。自然细蓝黑圆珠笔日常硬笔字，中英文清楚，字形、压力和间距有轻微变化；不用书法粗笔、印刷字体或刻意潦草。中文具体学习问题为封面首焦点，完整A/B清晰可读；内页以例句、规则、自测或答案为主，长句自然换行，宁可缩小简图，不缩小关键字。少量随手圈线和淡黄划线，辅助图为几笔能看清动作与结果的简笔涂画，禁止密集排线和精细装饰插画。核心文字左右8%、顶部7%、底部10%安全区。单篇保持本子、笔迹、笔和光线一致；不同篇按主题调整构图，避免复制同一双栏。只渲染指定文字，不加品牌或水印。AI生成模拟手写照片，不宣称真实手写实拍。",
+  "posts": [
+    {
+      "date": "20260929",
+      "prefix": "20260929_001_grow_out_of_还是_wear_out",
+      "pages": [
+        {
+          "number": 1,
+          "suffix": "封面",
+          "text": "鞋还没坏，\n怎么就穿不了了？\n鞋还好好的\n脚长大了\ngrow out of\n长大后穿不下\nwear out\n穿久了，把鞋穿坏",
+          "scene": "物件特写版式，简洁蓝黑线稿。同款帆布鞋同机位：上方完整小鞋和旁边明显更长的脚轮廓对比，不能画成鞋被撑破；下方合脚鞋轮廓但鞋底穿孔、鞋面破损。只改变尺寸关系或磨损原因。人物只显示小腿，避免一张儿童一张成人造成无关干扰。",
+          "prompt": "Recreate the attached study notebook photo with a materially more ordinary, believable phone-photo appearance. Image is content reference, NOT style to imitate. Keep its exact educational text, an open notebook on desk and a single real physical pen beside it. Portrait 3:4 target1080x1440.\n\nPrimary fixes: replace the reference's deliberately formed heavy calligraphy, ornate sneaker/anatomy drawing and uniformly textured paper. It needs to look like notes an ordinary person actually wrote for themselves, photographed while studying.\n\nAn inexpensive A5 school notebook opened on a plain light gray-beige laminate desk with extremely subtle wear, no dramatic woodgrain. The page is smooth ordinary white notebook paper with thin faint blue-grey horizontal rules, not rough watercolor paper. Notebook a little skewed, near-overhead smartphone shot slightly off center, focus sharp on the written page, subtly softer far corner, natural soft window light from left with physically consistent gentle shadows at binding and underneath pen. Some very faint reverse-side ink show-through and a small natural page bend only, no artificial stains, film grain, distressed textures, decorative clutter or heavy photographic filter. Slightly imperfect framing but all required text fully in frame.\nOpen notebook covers 82% of width; a slim portion of left page and stitched binding visible. An ordinary unbranded black plastic retractable ballpoint pen (single push button, one clip, simple consistent construction) lies diagonally on exposed desk to the right with a narrow contact shadow. Scale physically plausible: pen length roughly 60% of notebook page height, not oversized. Entire pen visible, not overlapping notes. It should feel casually put down, not a stationery product arrangement.\n\nHandwriting absolutely critical: ordinary Chinese adult daily quick HARD-PEN writing, not calligraphy. Dark blue 0.5mm ballpoint ink, mostly uniform narrow line with subtle pressure differences, occasional strokes connect naturally. Characters have distinctly variable width and tilt; repeated characters are not clones. NO brush-like flared ends, no exaggerated sharp angular calligraphy, no neatly spaced imitation handwriting font. English casual legible fast pen writing, modest joining, slightly varying slant. Heading written a little larger and more firmly, about 1.6x English/body, but with SAME thin pen, never brush or marker. More convincing pen handwriting, not merely more noise.\nVisual hierarchy keeps thumbnail attraction: two-line question at upper quarter, tiny quick diagram in middle, full A/B phrases clearly visible in lower third. Natural slightly uneven spacing and indentation, no mechanically aligned perfect halves. Title reads:\n鞋还没坏，\n怎么就穿不了了？\nA SINGLE quick blue underline under 没坏; one restrained pale yellow short highlight under 穿不了了. No red ink, no multiple decorative strokes.\n\nMiddle diagram: replace detailed foot/sneaker illustration with VERY SIMPLE 10-second learner doodles, a generic bare foot side outline above a shorter intact shoe outline, both face right and heel-aligned. Foot clearly 25% longer. Use only a handful of pen lines, shoe has no precise seams, stitching, texture or shading; at most two lace loops. Foot has no anatomical shading, toenails or tendons. No hatching. Short imperfect dashed guide at heels. Small casual annotations:\n脚长大了 (arrow to foot)\n鞋还好好的 (arrow to smaller intact shoe)\nDiagram uses only about 20% of page, functional not polished.\n\nLower area: two handwritten vocabulary entries, natural slightly staggered positions, full phrase on own line. Text:\ngrow out of\n长大后穿不下\nwear out\n穿久了，把鞋穿坏\nGloss for wear out wraps into two lines so text does not crowd edge. English similar size to the question's secondary line, mobile readable. Keep all text at least8% from image sides and10% from image bottom. No extra text, no watermark or brand. No new objects. Maintain accurate characters and grammar. This is AI-simulated imagery, do not write authenticity claims. Preserve the appeal of a useful note someone might save, with the physical notebook and pen convincing as ordinary objects.\n\n封面专项母版优先于通用母版：普通横线本、可见桌面与一支笔、蓝色细硬笔、简略涂画、普通手机近俯拍。参考输入为20260929_制作素材/20260928自然随拍优化前/20260929_001_grow_out_of_还是_wear_out_封面.png。",
+          "path": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_封面.png",
+          "retained": true,
+          "output": "01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_封面.png",
+          "native": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/封面_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 2,
+          "suffix": "图2_场景对比",
+          "text": "同一双鞋，两种变化\nHe grew out of his shoes.\n脚长大了，鞋还完好。\nHe wore out his shoes.\n大小合适，鞋底磨破了。",
+          "scene": "物件特写版式，简洁蓝黑线稿。同款帆布鞋同机位：上方完整小鞋和旁边明显更长的脚轮廓对比，不能画成鞋被撑破；下方合脚鞋轮廓但鞋底穿孔、鞋面破损。只改变尺寸关系或磨损原因。人物只显示小腿，避免一张儿童一张成人造成无关干扰。",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nTwo handwritten entries vertically. Upper: a SMALL quick bare foot outline next to a shorter intact shoe, foot NOT wearing shoe. Lower: same shoe size still fits foot but sole has obvious wear hole, simple few strokes. Avoid detailed laces, hatching or anatomy. Main emphasis the complete English sentences; two drawings together under20% of page.\nWrite exactly:\n同一双鞋，两种变化\nHe grew out of his shoes.\n脚长大了，鞋还完好。\nHe wore out his shoes.\n大小合适，鞋底磨破了。",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-eefa26dc-970d-42e9-b7a7-7652df88e999.png",
+          "correction_prompt": "Edit ONLY the upper shoe/foot sketch in this notebook page. Keep ALL text, pen, paper, desk, photo framing and lower sketch unchanged. The upper intact shoe is currently too large. Make that shoe visibly SHORTER than the bare foot: shoe length only 65% of the bare foot length, both side profile, separated, same direction. Do not shrink the foot. Keep the shoe completely intact. This illustrates foot having grown too big for the shoe. No other changes. Portrait3:4.",
+          "original_path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-3d7d73b6-a757-4ba6-97a1-5b02cff18d55.png",
+          "output": "01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_图2_场景对比.png",
+          "native": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图2_场景对比_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过",
+          "original_saved": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图2_场景对比_修正前.png"
+        },
+        {
+          "number": 3,
+          "suffix": "图3_一句话规则",
+          "text": "先找变化的原因\ngrow out of → 人长大，不合身\nwear out → 用得多，磨损坏\n这里讲鞋服场景，\n不是这两个短语的全部用法。",
+          "scene": "物件特写版式，简洁蓝黑线稿。同款帆布鞋同机位：上方完整小鞋和旁边明显更长的脚轮廓对比，不能画成鞋被撑破；下方合脚鞋轮廓但鞋底穿孔、鞋面破损。只改变尺寸关系或磨损原因。人物只显示小腿，避免一张儿童一张成人造成无关干扰。",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nA TEXT-LED rule page with two phrases and their meanings, naturally wrap before arrows if necessary. Circle 人长大 and 用得多 with imperfect thin blue pen. One tiny shoe doodle only, no large scene. Boundary note at bottom must stay readable. No large blank half.\nWrite exactly:\n先找变化的原因\ngrow out of → 人长大，不合身\nwear out → 用得多，磨损坏\n这里讲鞋服场景，\n不是这两个短语的全部用法。",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-d59857e2-12e8-4a3d-902d-1aca200ef171.png",
+          "output": "01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_图3_一句话规则.png",
+          "native": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图3_一句话规则_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 4,
+          "suffix": "图4_自测",
+          "text": "选短语，并用过去式\ngrow out of / wear out\n1. 鞋还完好，但他的脚长大了。\nHe ___ his shoes.\n2. 鞋仍合脚，但被他穿破了。\nHe ___ his shoes.",
+          "scene": "上下两双同款帆布鞋小线稿：第一双完好但脚轮廓更长，第二双仍合脚但鞋底穿孔。与题目配套且不出现答案英文。",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nA spacious exercise notebook page. Two vertically arranged numbered questions, with small plain right-margin doodles: upper bare foot beside intact shorter shoe; lower same shoe with a wear hole. NO answers, no ticks, no correct-option highlighting. Options identical style. English blank clearly visible. Put header on two lines to avoid shrinking. This page will later be reused for answer overlay.\nWrite exactly:\n选短语，并用过去式\ngrow out of / wear out\n1. 鞋还完好，但他的脚长大了。\nHe ___ his shoes.\n2. 鞋仍合脚，但被他穿破了。\nHe ___ his shoes.",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-2a607f55-2caf-49c4-a360-f547f260e593.png",
+          "correction_prompt": "Edit ONLY the upper shoe/foot sketch in this notebook page. Keep ALL text, pen, paper, desk, photo framing and lower sketch unchanged. The upper intact shoe is currently too large. Make that shoe visibly SHORTER than the bare foot: shoe length only 65% of the bare foot length, both side profile, separated, same direction. Do not shrink the foot. Keep the shoe completely intact. This illustrates foot having grown too big for the shoe. No other changes. Portrait3:4.",
+          "original_path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-0f3a5045-543e-4206-922e-a940459b0da5.png",
+          "output": "01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_图4_自测.png",
+          "native": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图4_自测_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过",
+          "original_saved": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图4_自测_修正前.png"
+        },
+        {
+          "number": 5,
+          "suffix": "图5_答案复习",
+          "text": "核对答案\n1. He grew out of his shoes.\n人长大了，尺寸不再合适。\n2. He wore out his shoes.\n反复穿用，鞋子磨损坏了。\n记住：人长大 / 物磨损",
+          "scene": "上下两双同款帆布鞋小线稿：第一双完好但脚轮廓更长，第二双仍合脚但鞋底穿孔。与题目配套且不出现答案英文。",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nTurn this EXACT exercise page into its answer page. Keep notebook, pen, desk and the two shoe/foot doodles at same positions and sizes. Replace heading and questions with complete answer sentences and reasons; no new scenes.\n\nWrite exactly:\n核对答案\n1. He grew out of his shoes.\n人长大了，尺寸不再合适。\n2. He wore out his shoes.\n反复穿用，鞋子磨损坏了。\n记住：人长大 / 物磨损",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-7c8284e5-a58a-4a9f-aabe-f79867d29f13.png",
+          "output": "01_内容生产/20260929/20260929_001_grow_out_of_还是_wear_out_图5_答案复习.png",
+          "native": "01_内容生产/20260929/20260929_制作素材/20260928桌面笔记成图/图5_答案复习_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        }
+      ]
+    },
+    {
+      "date": "20260930",
+      "prefix": "20260930_001_put_back_还是_put_away_场景复习",
+      "master": "Use case: scientific-educational. 制作一张小红书英语教学笔记图，竖版3:4，目标1080×1440。奶油色浅横线纸，自然窗光，近俯拍，木桌只露少量边缘。自然清楚的蓝黑圆珠笔手写中英文，少量浅绿/浅黄划线，简洁有语义的线稿。不用印刷体海报、贴纸、文具堆叠、品牌或密集排线。文字左右8%、顶部7%、底部10%安全区。全部文字逐字准确，允许换行不允许改词；英文清晰大字，中文清晰不连笔，手机阅读优先。 本篇主体与场景：厨房物件与手部近景，同一个带把白杯。上图手把杯子放回木桌上原先的淡圆形位置，下图手把同一个杯子收进橱柜。保持机位、杯子与手部线条一致，用清楚的桌面和橱柜位置而非单纯颜色区别。",
+      "pages": [
+        {
+          "number": 1,
+          "text": "杯子放回桌上\n就算收好了吗？\nput back / put away\n场景复习",
+          "scene": "Cover. Strong two-line question at top, heading1.6xbody natural thin pen. Below a SMALL quick doodle of plain mug returned to its original circular spot on a table, a short curved arrow. No polished room illustration. Bottom full put back / put away clearly handwritten, modest brief notebook annotation layout. Cup placed on table is question's situation, do not mark it wrong. Text only as specified.",
+          "suffix": "封面",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-5827400c-7759-49af-b764-02048a26cb4b.png",
+          "prompt": "undefined\nCover. Strong two-line question at top, heading1.6xbody natural thin pen. Below a SMALL quick doodle of plain mug returned to its original circular spot on a table, a short curved arrow. No polished room illustration. Bottom full put back / put away clearly handwritten, modest brief notebook annotation layout. Cup placed on table is question's situation, do not mark it wrong. Text only as specified.\nWrite exactly:\n杯子放回桌上\n就算收好了吗？\nput back / put away\n场景复习",
+          "output": "01_内容生产/20260930/20260930_001_put_back_还是_put_away_场景复习_封面.png",
+          "native": "01_内容生产/20260930/20260930_制作素材/20260928桌面笔记成图/封面_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 2,
+          "text": "同一个杯子，两种重点\nPut the cup back on the table.\n桌子是刚才拿起它的地方。\nPut the cup away in the cupboard.\n用完后，收进橱柜。",
+          "scene": "厨房物件与手部近景，同一个带把白杯。上图手把杯子放回木桌上原先的淡圆形位置，下图手把同一个杯子收进橱柜。保持机位、杯子与手部线条一致，用清楚的桌面和橱柜位置而非单纯颜色区别。",
+          "suffix": "图2_场景对比",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-810b44c7-f2da-4829-8c41-1d8df3903bcd.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nExample page: two vertical notes, complete sentences large and readable, doodles at most15% of page.\n场景：厨房物件与手部近景，同一个带把白杯。上图手把杯子放回木桌上原先的淡圆形位置，下图手把同一个杯子收进橱柜。保持机位、杯子与手部线条一致，用清楚的桌面和橱柜位置而非单纯颜色区别。\nWrite exactly:\n同一个杯子，两种重点\nPut the cup back on the table.\n桌子是刚才拿起它的地方。\nPut the cup away in the cupboard.\n用完后，收进橱柜。",
+          "output": "01_内容生产/20260930/20260930_001_put_back_还是_put_away_场景复习_图2_场景对比.png",
+          "native": "01_内容生产/20260930/20260930_制作素材/20260928桌面笔记成图/图2_场景对比_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 3,
+          "text": "回原处 / 收纳好\nput back → 放回原来的位置\nput away → 放到收纳的位置\n原处就是收纳处时，\n两种说法都可以。",
+          "scene": "厨房物件与手部近景，同一个带把白杯。上图手把杯子放回木桌上原先的淡圆形位置，下图手把同一个杯子收进橱柜。保持机位、杯子与手部线条一致，用清楚的桌面和橱柜位置而非单纯颜色区别。",
+          "suffix": "图3_一句话规则",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-b9a5ff5d-eb30-49d2-aa32-01cd11c3f0b3.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nRules page: text dominant, tiny supporting doodle only. Clear overlap note.\n场景：厨房物件与手部近景，同一个带把白杯。上图手把杯子放回木桌上原先的淡圆形位置，下图手把同一个杯子收进橱柜。保持机位、杯子与手部线条一致，用清楚的桌面和橱柜位置而非单纯颜色区别。\nWrite exactly:\n回原处 / 收纳好\nput back → 放回原来的位置\nput away → 放到收纳的位置\n原处就是收纳处时，\n两种说法都可以。",
+          "output": "01_内容生产/20260930/20260930_001_put_back_还是_put_away_场景复习_图3_一句话规则.png",
+          "native": "01_内容生产/20260930/20260930_制作素材/20260928桌面笔记成图/图3_一句话规则_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 4,
+          "text": "选更直接表达重点的词\nback / away\n1. 杯子从桌上拿起，现强调放回原处。\nPut the cup ___ on the table.\n2. 杯子洗净，现强调用完收纳。\nPut the cup ___ in the cupboard.",
+          "scene": "上下两个厨房小线稿：上手将杯子放回桌面，下手把洗净杯子收入橱柜。杯子、桌柜、手部及裁切在图4图5完全一致。",
+          "suffix": "图4_自测",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-1d68f991-fbf7-484f-9252-1b91ca61fff4.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nExercise page: two questions, no answers, ticks or color clues, all options same style. Header may wrap to two lines. Text priority; tiny right-margin doodles.\n场景：上下两个厨房小线稿：上手将杯子放回桌面，下手把洗净杯子收入橱柜。杯子、桌柜、手部及裁切在图4图5完全一致。\nWrite exactly:\n选更直接表达重点的词\nback / away\n1. 杯子从桌上拿起，现强调放回原处。\nPut the cup ___ on the table.\n2. 杯子洗净，现强调用完收纳。\nPut the cup ___ in the cupboard.",
+          "output": "01_内容生产/20260930/20260930_001_put_back_还是_put_away_场景复习_图4_自测.png",
+          "native": "01_内容生产/20260930/20260930_制作素材/20260928桌面笔记成图/图4_自测_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 5,
+          "text": "核对答案\n1. Put the cup back on the table.\nback 更直接强调回原处。\n2. Put the cup away in the cupboard.\naway 更直接强调收纳好。\n若橱柜也是原处，back 也成立。",
+          "scene": "上下两个厨房小线稿：上手将杯子放回桌面，下手把洗净杯子收入橱柜。杯子、桌柜、手部及裁切在图4图5完全一致。",
+          "suffix": "图5_答案复习",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-f7b7b682-ed33-47f9-81ad-108c84469a33.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nEdit the supplied exercise image into answer page. Keep same physical photo and same two cup/table/cupboard doodles, their locations and framing. Only replace heading and exercise text with full answers and reasons. No new scenes.\n场景：上下两个厨房小线稿：上手将杯子放回桌面，下手把洗净杯子收入橱柜。杯子、桌柜、手部及裁切在图4图5完全一致。\nWrite exactly:\n核对答案\n1. Put the cup back on the table.\nback 更直接强调回原处。\n2. Put the cup away in the cupboard.\naway 更直接强调收纳好。\n若橱柜也是原处，back 也成立。",
+          "output": "01_内容生产/20260930/20260930_001_put_back_还是_put_away_场景复习_图5_答案复习.png",
+          "native": "01_内容生产/20260930/20260930_制作素材/20260928桌面笔记成图/图5_答案复习_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        }
+      ]
+    },
+    {
+      "date": "20261001",
+      "prefix": "20261001_001_save_up_还是_save_on",
+      "master": "生成一张独立的3:4竖版英语学习笔记图，目标1080×1440。奶油横线笔记纸占画面约95%，近俯拍，自然窗光，保留少量木桌边。中英文为自然清楚的蓝黑手写字，少量浅绿或浅黄划线，笔迹略有自然变化但不能潦草。画面是AI生成的模拟手写笔记质感，不加真实拍摄声明。使用简洁圆珠笔线稿，少排线，不画密集阴影、复杂背景、文具堆、贴纸、品牌、无关符号。核心文字左右各留约8%、顶部7%、底部10%安全区。封面以中文场景钩子为第一层级，完整A/B为第二层级；内页以该页学习任务为第一层级，长句自然分行，不缩小塞入。图上只出现指定文字，不加水印、页码或自创标签。本篇母版锁定：物件平铺＋生活计划构图；同一位短发通勤者、圆柱储蓄罐、无品牌相机与自行车保持外形一致。",
+      "pages": [
+        {
+          "number": 1,
+          "text": "都叫“省钱”，\n攒起来，还是少花点？\nsave up / save on\n攒钱买相机 / 骑车省车费",
+          "scene": "Cover. Handwritten personal savings plan, question at top. Middle two tiny everyday doodles: coins dropped into a jar beside a small camera goal sketch; below/right a simple bicycle for commute, no detailed person or background. Full save up / save on large and clear in lower third, asymmetric everyday notes, no giant central illustration. Show saving money by reducing spending can help build savings, no false either-or. Text only as specified.",
+          "suffix": "封面",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-8775b4c1-ff41-4988-902d-9e7aebc80beb.png",
+          "prompt": "undefined\nCover. Handwritten personal savings plan, question at top. Middle two tiny everyday doodles: coins dropped into a jar beside a small camera goal sketch; below/right a simple bicycle for commute, no detailed person or background. Full save up / save on large and clear in lower third, asymmetric everyday notes, no giant central illustration. Show saving money by reducing spending can help build savings, no false either-or. Text only as specified.\nWrite exactly:\n都叫“省钱”，\n攒起来，还是少花点？\nsave up / save on\n攒钱买相机 / 骑车省车费",
+          "correction_prompt": "Edit ONLY the illustration detail and English stroke weight in this notebook cover. Keep all text, text positions, physical notebook, pen, desk, lighting and photo framing. Simplify jar/coins/camera/bicycle into casual quick pen doodles: 3 coins maximum, no jar threads, no lens shading, no bicycle basket grid or spokes; keep meanings of collecting money for camera and commuting by bicycle. Make English save up / save on thinner ordinary ballpoint handwriting at same size, not marker lettering. No other changes. Portrait3:4.",
+          "original_path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-75e6c2e6-ab57-4ea9-8818-785bc3f82e40.png",
+          "output": "01_内容生产/20261001/20261001_001_save_up_还是_save_on_封面.png",
+          "native": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/封面_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过",
+          "original_saved": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/封面_修正前.png"
+        },
+        {
+          "number": 2,
+          "text": "钱攒在哪？钱省在哪？\nI'm saving up for a camera.\n我在攒钱买相机。\nI cycle to work to save on transport costs.\n我骑车上班，节省交通费。",
+          "scene": "采用上下两条笔记。上条例句旁画同一只手把硬币存入罐中，相机小轮廓表示目标；下条例句旁画同一位短发通勤者骑车经过空白公交站轮廓。只画必要物件，费用变化由中文解释呈现，不加未经指定数字。",
+          "suffix": "图2_场景对比",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-ba86dabc-19ad-48ad-9f5f-931c36f29e47.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nOnly rough quick small pen doodles; no elaborate bicycle parts, no coin stacks detail. Body English sentences naturally wrap at phrase boundaries to keep size readable. Two vertically arranged example notes, drawings under15% of page.\n采用上下两条笔记。上条例句旁画同一只手把硬币存入罐中，相机小轮廓表示目标；下条例句旁画同一位短发通勤者骑车经过空白公交站轮廓。只画必要物件，费用变化由中文解释呈现，不加未经指定数字。\nWrite exactly:\n钱攒在哪？钱省在哪？\nI'm saving up for a camera.\n我在攒钱买相机。\nI cycle to work to save on transport costs.\n我骑车上班，节省交通费。",
+          "output": "01_内容生产/20261001/20261001_001_save_up_还是_save_on_图2_场景对比.png",
+          "native": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图2_场景对比_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 3,
+          "text": "看钱的去向\nsave up：把钱攒起来\nsave on：某项开支少花\n省下车费，也能存进相机基金。",
+          "scene": "文字占主导，两条短规则上下排列。下方画骑车通勤的同一人物把一枚硬币放进同一储蓄罐，罐后小相机轮廓；这是一条可同时发生的生活链，不能画成二选一。",
+          "suffix": "图3_一句话规则",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-8fc2438f-f4a8-4df8-8283-d5d4e1c624c4.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nOnly rough quick small pen doodles; no elaborate bicycle parts, no coin stacks detail. Body English sentences naturally wrap at phrase boundaries to keep size readable. Text-led rules; overlap note clear.\n文字占主导，两条短规则上下排列。下方画骑车通勤的同一人物把一枚硬币放进同一储蓄罐，罐后小相机轮廓；这是一条可同时发生的生活链，不能画成二选一。\nWrite exactly:\n看钱的去向\nsave up：把钱攒起来\nsave on：某项开支少花\n省下车费，也能存进相机基金。",
+          "correction_prompt": "Edit ONLY the central illustration on this notebook page: replace the large polished boy, bicycle, coin jar and camera with a SMALL casual pen doodle cluster occupying only 15% of the page area. Draw a very basic bicycle next to a coin going into a jar, with a tiny camera outline. NO person, NO hatching, NO detailed parts. Keep ALL text verbatim, same sizes and positions, notebook, desk, pen, lighting and framing. Make this feel like everyday handwritten notes, not an illustrated poster. Portrait3:4.",
+          "original_path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-03413202-3c6a-4925-aa35-ca1e7479735e.png",
+          "output": "01_内容生产/20261001/20261001_001_save_up_还是_save_on_图3_一句话规则.png",
+          "native": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图3_一句话规则_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过",
+          "original_saved": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图3_一句话规则_修正前.png"
+        },
+        {
+          "number": 4,
+          "text": "换你来表达\n1. 每月留下一点收入，准备买相机。\nI'm ___ for a camera.\n2. 骑车通勤，想说少花交通费。\nI cycle to work to ___ transport costs.\n备选：save up / save on\n按句子调整形式。",
+          "scene": "两题上下分区，题干与句子左对齐。第一题旁只画相机轮廓，第二题旁只画通勤者与自行车静止轮廓；不画硬币流向，不替题目选词。备选统一放底部，大小颜色完全一致。",
+          "suffix": "图4_自测",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-84b823b6-d817-4047-9d25-ba345f4f3e6f.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nOnly rough quick small pen doodles; no elaborate bicycle parts, no coin stacks detail. Body English sentences naturally wrap at phrase boundaries to keep size readable. Exercise: no answers, checks or highlights of options. Two questions and equal-style options.\n两题上下分区，题干与句子左对齐。第一题旁只画相机轮廓，第二题旁只画通勤者与自行车静止轮廓；不画硬币流向，不替题目选词。备选统一放底部，大小颜色完全一致。\nWrite exactly:\n换你来表达\n1. 每月留下一点收入，准备买相机。\nI'm ___ for a camera.\n2. 骑车通勤，想说少花交通费。\nI cycle to work to ___ transport costs.\n备选：save up / save on\n按句子调整形式。",
+          "correction_prompt": "Fix this exercise notebook page's missing instructions. Preserve title and both numbered Chinese questions, both English fill-in sentences and small doodles. Replace the bottom oversized option line with these TWO smaller but clearly readable lines, both within bottom10% safe margin:\n备选：save up / save on\n按句子调整形式。\nRemove highlighting from options; identical fine blue pen style for both options. Keep notebook, pen, desk and photo framing. All other text unchanged. Portrait3:4.",
+          "original_path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-168bef85-6fcc-423b-aa08-31263009bdee.png",
+          "output": "01_内容生产/20261001/20261001_001_save_up_还是_save_on_图4_自测.png",
+          "native": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图4_自测_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过",
+          "original_saved": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图4_自测_修正前.png"
+        },
+        {
+          "number": 5,
+          "text": "核对完整句子\n1. I'm saving up for a camera.\n留钱以后用，强调积攒。\n2. I cycle to work to save on transport costs.\n交通费少了，强调减少开支。\n两件事可以同时发生。",
+          "scene": "完整继承图4上下两题区、相机和静止自行车小图、机位和裁切；在原句位置写完整答案，各跟一行中文理由，底部补充可同时发生的记忆句。",
+          "suffix": "图5_答案复习",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-c4895924-f70f-4143-997d-1e04f0e3134f.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nConvert reference exercise page to answer page. Preserve camera and bicycle doodles at same positions, notebook/desk/pen/framing. Replace all question text and options with the full answers below. Keep bottom overlap note clearly legible; natural line breaks for long English, no sentence omissions.\nWrite exactly:\n核对完整句子\n1. I'm saving up for a camera.\n留钱以后用，强调积攒。\n2. I cycle to work to save on transport costs.\n交通费少了，强调减少开支。\n两件事可以同时发生。",
+          "output": "01_内容生产/20261001/20261001_001_save_up_还是_save_on_图5_答案复习.png",
+          "native": "01_内容生产/20261001/20261001_制作素材/20260928桌面笔记成图/图5_答案复习_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        }
+      ]
+    },
+    {
+      "date": "20261002",
+      "prefix": "20261002_001_fall_over_还是_fall_off",
+      "master": "生成一张独立的3:4竖版英语学习笔记图，目标1080×1440。奶油横线笔记纸占画面约95%，近俯拍，自然窗光，保留少量木桌边。中英文为自然清楚的蓝黑手写字，少量浅绿或浅黄划线，笔迹略有自然变化但不能潦草。画面是AI生成的模拟手写笔记质感，不加真实拍摄声明。使用简洁圆珠笔线稿，少排线，不画密集阴影、复杂背景、文具堆、贴纸、品牌、无关符号。核心文字左右各留约8%、顶部7%、底部10%安全区。封面以中文场景钩子为第一层级，完整A/B为第二层级；内页以该页学习任务为第一层级，长句自然分行，不缩小塞入。图上只出现指定文字，不加水印、页码或自创标签。本篇母版锁定：同一公园路径的侧视动作笔记；短发人物穿浅色长袖、骑车时戴头盔，线条简洁；迁移题使用同一只细口花瓶与普通方桌。",
+      "pages": [
+        {
+          "number": 1,
+          "text": "都是“摔了”，\n倒下，还是从车上掉下？\nfall over / fall off",
+          "scene": "Cover. Two-line everyday question at top. Small quick blue pen doodles below: a person slipping off balance on a wet path; same person wearing helmet falling from a bicycle, body visibly separates from bicycle. Simple stick-like line figures, no injuries or detailed anatomy. Full fall over / fall off prominent lower third. No equation of over exclusively with flat ground. Text only as specified.",
+          "suffix": "封面",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-aeb1185d-fb04-4e1b-b1b5-fa817674e1ea.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nCover: strong question heading, full A/B large. Simple crude pen figures with very few strokes, no polished detailed artwork.\n场景：Cover. Two-line everyday question at top. Small quick blue pen doodles below: a person slipping off balance on a wet path; same person wearing helmet falling from a bicycle, body visibly separates from bicycle. Simple stick-like line figures, no injuries or detailed anatomy. Full fall over / fall off prominent lower third. No equation of over exclusively with flat ground. Text only as specified.\nWrite exactly:\n都是“摔了”，\n倒下，还是从车上掉下？\nfall over / fall off",
+          "output": "01_内容生产/20261002/20261002_001_fall_over_还是_fall_off_封面.png",
+          "native": "01_内容生产/20261002/20261002_制作素材/20260928桌面笔记成图/封面_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 2,
+          "text": "镜头对准哪里？\nI slipped and fell over on the wet path.\n我在湿路上滑倒了。\nI fell off my bike at the corner.\n我在拐角处从车上摔下来。",
+          "scene": "上下两幅同机位侧视线稿，人物衣着和公园路径一致；上方是鞋滑开后向地面倒下，下方是戴头盔人物从自行车座位置向旁边下落，自行车轮廓清楚。各幅旁放完整英语句和中文，避免只画两个已经坐地的人。",
+          "suffix": "图2_场景对比",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-524e4f4c-6134-479a-b62a-4f439c24e088.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nExample page two vertically arranged notes. Very simple stick figure slipping on path upper, same helmeted person separates from bike lower. No injury, no elaborate artwork. Full English sentences large with natural line breaks.\n场景：上下两幅同机位侧视线稿，人物衣着和公园路径一致；上方是鞋滑开后向地面倒下，下方是戴头盔人物从自行车座位置向旁边下落，自行车轮廓清楚。各幅旁放完整英语句和中文，避免只画两个已经坐地的人。\nWrite exactly:\n镜头对准哪里？\nI slipped and fell over on the wet path.\n我在湿路上滑倒了。\nI fell off my bike at the corner.\n我在拐角处从车上摔下来。",
+          "output": "01_内容生产/20261002/20261002_001_fall_over_还是_fall_off_图2_场景对比.png",
+          "native": "01_内容生产/20261002/20261002_制作素材/20260928桌面笔记成图/图2_场景对比_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 3,
+          "text": "看倒下，还是从哪儿掉下\nfall over：失衡倒下\nfall off：从某物上掉下来\n同一次事故，可以换角度描述。",
+          "scene": "规则在上半部，底部画一个戴头盔人物与自行车倾倒的单次事件小图，两个短箭头分别指向身体倒下方向和自行车支撑位置，箭头不加文字。以一个事故解释可换角度，不把两表达画成互斥方框。",
+          "suffix": "图3_一句话规则",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-a9bad486-e4a3-4b9f-be83-6a4ddc027312.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nRule page mostly text, only ONE tiny doodle of person and bicycle tipping; it is one incident that can be described from different angles.\n场景：规则在上半部，底部画一个戴头盔人物与自行车倾倒的单次事件小图，两个短箭头分别指向身体倒下方向和自行车支撑位置，箭头不加文字。以一个事故解释可换角度，不把两表达画成互斥方框。\nWrite exactly:\n看倒下，还是从哪儿掉下\nfall over：失衡倒下\nfall off：从某物上掉下来\n同一次事故，可以换角度描述。",
+          "output": "01_内容生产/20261002/20261002_001_fall_over_还是_fall_off_图3_一句话规则.png",
+          "native": "01_内容生产/20261002/20261002_制作素材/20260928桌面笔记成图/图3_一句话规则_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 4,
+          "text": "哪句更直接说出重点？\n1. 在平坦路面踩滑，摔倒在地。\nA. I fell over.\nB. I fell off my bike.\n2. 花瓶从桌面掉到地上。\nA. The vase fell over.\nB. The vase fell off the table.",
+          "scene": "两题上下排列。第一题旁仅画同一双鞋和湿路小轮廓，第二题旁仅画一张桌子与花瓶独立的小轮廓，不画落地结果；所有A/B字号、颜色和缩进一致，无勾叉或高亮。",
+          "suffix": "图4_自测",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-4a113497-ea88-48e4-8e9e-680b67c6aa9f.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nExercise: equal options no answers or ticks; tiny shoes on wet path and separate table/vase simple doodles, no falling-result clues. Long options wrap naturally.\n场景：两题上下排列。第一题旁仅画同一双鞋和湿路小轮廓，第二题旁仅画一张桌子与花瓶独立的小轮廓，不画落地结果；所有A/B字号、颜色和缩进一致，无勾叉或高亮。\nWrite exactly:\n哪句更直接说出重点？\n1. 在平坦路面踩滑，摔倒在地。\nA. I fell over.\nB. I fell off my bike.\n2. 花瓶从桌面掉到地上。\nA. The vase fell over.\nB. The vase fell off the table.",
+          "output": "01_内容生产/20261002/20261002_001_fall_over_还是_fall_off_图4_自测.png",
+          "native": "01_内容生产/20261002/20261002_制作素材/20260928桌面笔记成图/图4_自测_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        },
+        {
+          "number": 5,
+          "text": "答案看表达的重点\n1. A. I fell over.\n描述走路时失衡倒下。\n2. B. The vase fell off the table.\n直接交代从桌面掉下。\n花瓶也可能先倒，再掉下。",
+          "scene": "完全继承图4湿路鞋子、桌子花瓶小轮廓和上下题区，原位置改写完整答案并各给中文理由，底部写先倒再掉的边界；不添加新落点图暗示另一场景。",
+          "suffix": "图5_答案复习",
+          "path": "/Users/zhaokunzhang/.codex/generated_images/01a0e787-93f6-7721-bc1e-954bc77cb294/exec-0a940874-27d0-4193-b35f-6d8eab0eb981.png",
+          "prompt": "Create ONE 3:4 portrait image target1080x1440. Reference image supplies the physical notebook/desk/pen and handwriting style, NOT page content. Another page in the SAME person's notebook. Ordinary smooth white ruled notebook opened on pale grey-beige desk, slim left page and binding visible, a real simple black retractable ballpoint pen casually placed on exposed desk to right. Notebook occupies about82% width. Near-overhead candid phone photo, slight skew, soft natural daylight, subtle page edges and very faint reverse-side showthrough. Fine blue 0.5mm ballpoint ordinary adult Chinese hard-pen handwriting, natural variable proportions and pressure, legible English with modest joining. No calligraphy brush strokes, marker lettering, poster font, watercolor texture, decorative clutter or detailed illustrations. Text dominates; small quick doodles only if useful. A few short pen underlines, minimal pale yellow highlighting, no boxed card layout. Keep text inside8% sides and10% bottom, English sentences may wrap naturally to remain LARGE and readable. All characters accurate. Only specified text. AI simulated notebook photo, no authenticity statement.\nTurn this exact exercise notebook page into its answer page. Keep same shoes/wet-path and table/vase doodles, same notebook desk pen camera framing. Replace question and options with complete answers and reasons below. No new scenes. Body English must stay complete and large, naturally wrap lines. All text stays within bottom10% margin.\nWrite exactly:\n答案看表达的重点\n1. A. I fell over.\n描述走路时失衡倒下。\n2. B. The vase fell off the table.\n直接交代从桌面掉下。\n花瓶也可能先倒，再掉下。",
+          "output": "01_内容生产/20261002/20261002_001_fall_over_还是_fall_off_图5_答案复习.png",
+          "native": "01_内容生产/20261002/20261002_制作素材/20260928桌面笔记成图/图5_答案复习_生成原图.png",
+          "actual_size": [
+            1086,
+            1448
+          ],
+          "status": "实图通过"
+        }
+      ]
+    }
+  ]
+}

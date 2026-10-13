@@ -1,0 +1,284 @@
+{
+  "created": "2026-09-21",
+  "authorization": "用户明确要求一直完成到10月16日的排期、文案和配图",
+  "visual_decision": "延续手写作为本批制作基线，不宣称画风因果已验证；9/24复盘与后续到龄观察保留",
+  "posts": [
+    {
+      "date": "2026-09-25",
+      "directory": "01_内容生产/20260925",
+      "prefix": "20260925_001_give_away_还是_throw_away",
+      "topic": "give away / throw away",
+      "kind": "库存改造",
+      "source_date": "20261003",
+      "status": "实图通过"
+    },
+    {
+      "date": "2026-09-26",
+      "directory": "01_内容生产/20260926",
+      "prefix": "20260926_001_leave_out_还是_leave_behind",
+      "topic": "leave out / leave behind",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过"
+    },
+    {
+      "date": "2026-09-27",
+      "directory": "01_内容生产/20260927",
+      "prefix": "20260927_001_sleep_in_还是_sleep_over",
+      "topic": "sleep in / sleep over",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_note": "2026-09-28四篇补齐完成；发布稿、五页提示词与五张1080×1440成图齐全，逐张检查通过。制作完成不代表已发布。",
+      "publication_status": "未发布（用户2026-09-28确认）"
+    },
+    {
+      "date": "2026-09-28",
+      "directory": "01_内容生产/20260928",
+      "prefix": "20260928_001_make_someone_do_还是_let_someone_do",
+      "topic": "make someone do / let someone do",
+      "kind": "库存改造",
+      "source_date": "20261007",
+      "status": "实图通过",
+      "production_note": "2026-09-28四篇补齐完成；发布稿、五页提示词与五张1080×1440成图齐全，逐张检查通过。制作完成不代表已发布。"
+    },
+    {
+      "date": "2026-09-29",
+      "directory": "01_内容生产/20260929",
+      "prefix": "20260929_001_grow_out_of_还是_wear_out",
+      "topic": "grow out of / wear out",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_note": "2026-09-28四篇补齐完成；发布稿、五页提示词与五张1080×1440成图齐全，逐张检查通过。制作完成不代表已发布。"
+    },
+    {
+      "date": "2026-09-30",
+      "directory": "01_内容生产/20260930",
+      "prefix": "20260930_001_put_back_还是_put_away_场景复习",
+      "topic": "put back / put away 场景复习",
+      "kind": "已发场景复习",
+      "source_date": "20260916",
+      "status": "实图通过",
+      "production_note": "2026-09-28四篇补齐完成；发布稿、五页提示词与五张1080×1440成图齐全，逐张检查通过。制作完成不代表已发布。"
+    },
+    {
+      "date": "2026-10-01",
+      "directory": "01_内容生产/20261001",
+      "prefix": "20261001_001_save_up_还是_save_on",
+      "topic": "save up / save on",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "制作中"
+    },
+    {
+      "date": "2026-10-02",
+      "directory": "01_内容生产/20261002",
+      "prefix": "20261002_001_fall_over_还是_fall_off",
+      "topic": "fall over / fall off",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "制作中"
+    },
+    {
+      "date": "2026-10-03",
+      "directory": "01_内容生产/20261003",
+      "prefix": "20261003_001_cheer_up_还是_cheer_on",
+      "topic": "cheer up / cheer on",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-04",
+      "directory": "01_内容生产/20261004",
+      "prefix": "20261004_001_check_in_on_还是_check_up_on",
+      "topic": "check in on / check up on",
+      "kind": "库存改造",
+      "source_date": "20261004",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-05",
+      "directory": "01_内容生产/20261005",
+      "prefix": "20261005_001_tear_up_还是_tear_off",
+      "topic": "tear up / tear off",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-06",
+      "directory": "01_内容生产/20261006",
+      "prefix": "20261006_001_be_good_at_还是_be_good_with",
+      "topic": "be good at / be good with",
+      "kind": "库存改造",
+      "source_date": "20261012",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-07",
+      "directory": "01_内容生产/20261007",
+      "prefix": "20261007_001_talk_to_还是_talk_about",
+      "topic": "talk to / talk about",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-08",
+      "directory": "01_内容生产/20261008",
+      "prefix": "20261008_001_work_on_还是_work_out",
+      "topic": "work on / work out",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-09",
+      "directory": "01_内容生产/20261009",
+      "prefix": "20261009_001_bring_up_还是_grow_up",
+      "topic": "bring up / grow up",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-10",
+      "directory": "01_内容生产/20261010",
+      "prefix": "20261010_001_eat_away_at_还是_get_on_someones_nerves",
+      "topic": "eat away at / get on someone's nerves",
+      "kind": "用户指定换题新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-09",
+      "production_note": "用户确认情绪上的烧心；文案、五页提示词和五张1080×1440图已更换，逐张查看通过。原稿完整归档；不代表已发布。",
+      "previous_prefix": "20261010_001_make_up_with_还是_make_up_for",
+      "previous_archive": "06_内容管理/历史库存/202610_重构池/20261009烧心换题前/20261010"
+    },
+    {
+      "date": "2026-10-11",
+      "directory": "01_内容生产/20261011",
+      "prefix": "20261011_001_fold_up_还是_roll_up",
+      "topic": "fold up / roll up",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-12",
+      "directory": "01_内容生产/20261012",
+      "prefix": "20261012_001_take_up_还是_take_on",
+      "topic": "take up / take on",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-13",
+      "directory": "01_内容生产/20261013",
+      "prefix": "20261013_001_be_sorry_to_hear_还是_be_sorry_for_doing",
+      "topic": "be sorry to hear / be sorry for doing",
+      "kind": "库存改造",
+      "source_date": "20261013",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-14",
+      "directory": "01_内容生产/20261014",
+      "prefix": "20261014_001_get_along_with_还是_put_up_with",
+      "topic": "get along with / put up with",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-15",
+      "directory": "01_内容生产/20261015",
+      "prefix": "20261015_001_come_along_还是_come_over",
+      "topic": "come along / come over",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    },
+    {
+      "date": "2026-10-16",
+      "directory": "01_内容生产/20261016",
+      "prefix": "20261016_001_set_off_还是_go_off",
+      "topic": "set off / go off",
+      "kind": "新稿",
+      "source_date": "",
+      "status": "实图通过",
+      "production_verified_on": "2026-10-03"
+    }
+  ],
+  "source_moves": [
+    {
+      "original": "01_内容生产/20261003",
+      "current": "01_内容生产/20260925/20260925_制作素材/20260921改造前来源/20261003",
+      "action": "原稿旧图作为改造来源保留"
+    },
+    {
+      "original": "01_内容生产/20261007",
+      "current": "01_内容生产/20260928/20260928_制作素材/20260921改造前来源/20261007",
+      "action": "原稿旧图作为改造来源保留"
+    },
+    {
+      "original": "01_内容生产/20261004",
+      "current": "01_内容生产/20261004/20261004_制作素材/20260921改造前来源/20261004",
+      "action": "原稿旧图作为改造来源保留"
+    },
+    {
+      "original": "01_内容生产/20261012",
+      "current": "01_内容生产/20261006/20261006_制作素材/20260921改造前来源/20261012",
+      "action": "原稿旧图作为改造来源保留"
+    },
+    {
+      "original": "01_内容生产/20261013",
+      "current": "01_内容生产/20261013/20261013_制作素材/20260921改造前来源/20261013",
+      "action": "原稿旧图作为改造来源保留"
+    },
+    {
+      "original": "01_内容生产/20261001",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261001",
+      "action": "撤出正式日期，保留历史库存"
+    },
+    {
+      "original": "01_内容生产/20261010",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261010",
+      "action": "撤出正式日期，保留历史库存"
+    },
+    {
+      "original": "01_内容生产/20261011",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261011",
+      "action": "撤出正式日期，保留历史库存"
+    },
+    {
+      "original": "01_内容生产/20261014",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261014",
+      "action": "撤出正式日期，保留历史库存"
+    },
+    {
+      "original": "01_内容生产/20261015",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261015",
+      "action": "撤出正式日期，保留历史库存"
+    },
+    {
+      "original": "01_内容生产/20261016",
+      "current": "06_内容管理/历史库存/202610_重构池/20260921调整前/20261016",
+      "action": "撤出正式日期，保留历史库存"
+    }
+  ]
+}

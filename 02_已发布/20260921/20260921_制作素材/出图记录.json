@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-21",
+  "slug": "get_over_还是_get_through",
+  "generator": "built-in imagegen",
+  "reference": "01_内容生产/20260918/20260918_001_try_on_还是_try_out_封面.png",
+  "master": "浅奶油横线纸近俯拍、窄浅木桌边、自然窗光、蓝黑自然手写、极简语义线稿、少量浅绿浅黄划线、左右8%与底部10%安全留白。",
+  "pages": [
+    {
+      "page": 1,
+      "file": "01_内容生产/20260921/20260921_001_get_over_还是_get_through_封面.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-faf4fadb-d3bd-46ea-8234-43ca45b136b6.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第1页封面，竖版3:4，目标1080×1440\nPrimary request: 生成一张真实纸质手写英语学习笔记的近俯拍照片，参考输入图仅用于纸张、光线、蓝黑笔迹和简笔画质感；主题改为 get through / get over。\nScene/backdrop: 浅奶油色横线笔记纸几乎占满画面，画面顶部或一侧只露出很窄的浅木桌边，自然窗光与极轻真实纸张阴影。\nSubject: 下半部是一条简洁的周一到周五手绘日历线，终点旁同一位成年女性坐在窗边慢慢放松；表达“撑过一周后，情绪仍需恢复”，但不要病人形象、图表、密集排线。\nStyle/medium: 真实拍摄的手写笔记页；清楚自然的蓝黑圆珠笔中文和英文，略有真实笔迹变化；极简蓝黑线稿，少量浅鼠尾草绿与浅黄色手划线。\nComposition/framing: 中文钩子为第一层，完整英文A/B为第二层；文字在上半部、线稿在下半部；左右各留约8%、底部留约10%安全空白。手机缩略图仍清楚。\nLighting/mood: 柔和自然窗光，安静、可信、像认真做的个人学习笔记。\nColor palette: 浅奶油纸、蓝黑墨水、浅绿和浅黄两种低饱和划线色、浅木色桌边。\nText (verbatim, preserve exact line breaks):\n“撑过去了\n就一定缓过来了吗？\nget through / get over”\nText accuracy: 每个中文字和英文字母必须准确清楚；英文逐字为 g-e-t 空格 t-h-r-o-u-g-h 空格 / 空格 g-e-t 空格 o-v-e-r。不得删词、改词、加字。\nConstraints: 单张独立成图；中文最大最醒目，英文结构完整且次一级；简笔画必须支持语义；留白充足；不要把某个表达画成错误。\nAvoid: 任何额外文字、页码、答案、勾叉、品牌、水印、乱码；印刷体海报、便签、胶带、贴纸、电影光效、3D、霓虹、红绿对撞、粗撕裂线、巨大符号、密集阴影线、满版拥挤。",
+      "human_check": "实图通过：中文钩子与 get through / get over 逐字正确；日历线与窗边恢复场景语义清楚；无伪对错；安全区与层级通过。"
+    },
+    {
+      "page": 2,
+      "file": "01_内容生产/20260921/20260921_001_get_over_还是_get_through_图2_场景对比.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-8359eda4-fbd8-4160-b8a4-fe23fe3dbbed.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第2页场景对比，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 get through / get over 场景对比页。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光，纸张与笔迹为主。\nSubject: 上半部是一周待办清单已经结束、同一位成年女性放下电脑；下半部是同一女性平静坐在窗边。两幅极简蓝黑线稿，场景小于文字区，清楚表达“撑过阶段”和“仍在恢复”。\nStyle/medium: 清楚自然蓝黑圆珠笔手写中英文，极简线稿，少量浅绿浅黄划线，不密排线。\nComposition/framing: 标题在上；两个例句组上下排列，每组英文优先、中文随后；左右8%、底部10%安全留白，长句自然换行但不删词。\nLighting/mood: 柔和自然窗光，安静可信。\nText (verbatim, preserve exact line breaks):\n“看你强调哪一面\nI got through a difficult week.\n我撑过了难熬的一周。\nI'm still getting over the breakup.\n我还在从失恋中慢慢恢复。”\nText accuracy: 所有中英文逐字准确，标点和撇号准确；不得增删改。\nConstraints: 继承封面的纸张、光线、蓝黑笔迹、女性外形和线稿语言；本页只改变为两个具体例句场景；A/B均自然，不加勾叉。\nAvoid: 任何额外文字、页码、答案、品牌、水印、乱码、印刷体海报、贴纸、胶带、3D、霓虹、红绿对撞、密集排线、满版拥挤。",
+      "human_check": "实图通过：两条例句与中文逐字正确；上方完成难熬一周、下方仍在恢复，焦点区分清楚；无勾叉和伪对错。"
+    },
+    {
+      "page": 3,
+      "file": "01_内容生产/20260921/20260921_001_get_over_还是_get_through_图3_一句话规则.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-ca7a3b5a-ee05-4918-9b31-306959722c4b.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第3页一句话规则，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 get through / get over 规则页。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光。\nSubject: 中下部一条简洁手绘时间线：女性走过标有一周节奏的小段路，终点后仍坐下慢慢恢复；只用极简蓝黑线稿，不把两词画成绝对阶段，不加额外文字。\nStyle/medium: 清楚自然蓝黑圆珠笔手写，少量浅绿浅黄划线，真实笔迹变化，简洁线稿。\nComposition/framing: 文字为主，规则分组清楚；图小而有语义；左右8%、底部10%安全留白，最后一句不挤底。\nLighting/mood: 柔和自然窗光，平静可信。\nText (verbatim, preserve exact line breaks):\n“撑过一段日子，也可能仍在恢复\nget through\n强调渡过困难阶段\nget over\n强调从打击中恢复\n同一件难事也能用两者，焦点不同。”\nText accuracy: 所有中英文逐字准确；英文分别为 get through 和 get over；不得增删改。\nConstraints: 继承封面的纸张、光线、蓝黑笔迹、女性外形；本页只改变为时间线与规则；不制造互斥或伪对错。\nAvoid: 任何额外文字、页码、勾叉、品牌、水印、乱码、图表感、印刷体海报、贴纸、胶带、3D、霓虹、密集排线、满版拥挤。",
+      "human_check": "实图通过：规则及重叠边界逐字正确；时间线表达撑过后仍需恢复，没有绝对二分。"
+    },
+    {
+      "page": 4,
+      "file": "01_内容生产/20260921/20260921_001_get_over_还是_get_through_图4_自测.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-951c1774-b65d-46e9-8528-fe01e8522d6f.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第4页自测，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 get through / get over 两题自测页，绝不显示答案或暗示。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光。\nSubject: 上方小线稿为分手后同一位成年女性与朋友平静聊天；下方为同一女性坐在桌前面对待办清单。线稿小而简洁，不出现答案文字。\nStyle/medium: 清楚自然蓝黑圆珠笔手写，极简蓝黑线稿，少量浅绿浅黄仅划标题，不用于区分选项。\nComposition/framing: 标题、选项、两题依次纵向排列；所有题干和空格完整；两题及两个选项同色同字重；左右8%、底部10%安全留白。\nLighting/mood: 柔和自然窗光，像真实学习者自测笔记。\nText (verbatim, preserve exact line breaks):\n“按表达重点，选更贴切的一项\n选项：get over / get through\n1. 分手后，希望慢慢恢复：\nI need time to ___ the breakup.\n2. 周五前还有很多任务，要先撑过这周：\nI just need to ___ this week.”\nText accuracy: 所有中英文、数字、冒号、斜杠、三个下划线和句号逐字准确；不得增删改。\nConstraints: 继承封面的纸张、光线、笔迹、同一女性；本页建立测试场景，供第5页严格继承；不填空，不勾选，不圈选，不高亮任何答案，不用颜色暗示。\nAvoid: 任何额外文字、答案、勾叉、圈选、箭头指向答案、品牌、水印、乱码、印刷体海报、贴纸、胶带、3D、霓虹、红绿对撞、密集排线、满版拥挤。\n\n定向修正提示词：Use case: precise-object-edit\nAsset type: 小红书英语学习图文，第4页自测修正版，竖版3:4\nPrimary request: 只删除右下角待办清单纸顶部的英文文字 “To Do”，让那张纸只保留空白勾选框和无字横线。其余所有像素内容尽量保持不变。\nInput image: 唯一输入图是编辑目标。\nText that must remain exactly unchanged:\n“按表达重点，选更贴切的一项\n选项：get over / get through\n1. 分手后，希望慢慢恢复：\nI need time to ___ the breakup.\n2. 周五前还有很多任务，要先撑过这周：\nI just need to ___ this week.”\nConstraints: 删除且只删除线稿小道具上的 “To Do”；保持所有主文案、标点、下划线、人物、场景、布局、光线、纸张、划线颜色、裁切完全不变；不添加任何新文字；不填答案，不勾选，不圈选，不高亮。\nAvoid: 改写主文案、增加文字、答案提示、布局漂移、人物变化。",
+      "human_check": "修正后实图通过：主文案逐字正确；初稿线稿中的多余“To Do”已删除；两题未填、无勾叉圈选和颜色暗示。初稿保存在制作素材。"
+    },
+    {
+      "page": 5,
+      "file": "01_内容生产/20260921/20260921_001_get_over_还是_get_through_图5_答案复习.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-4a91b390-3740-4b5e-92aa-8dde79155d77.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第5页答案复习，竖版3:4，目标1080×1440\nPrimary request: 以输入的第4页为严格场景参考，制作对应答案页。保留同一浅奶油横线纸、近俯拍、窄木桌边、自然窗光、蓝黑手写、人物外形与两幅场景：上方女性与朋友聊天，下方同一女性桌前面对待办清单。只把自测文字替换为完整答案、理由和必要重叠边界。\nStyle/medium: 真实拍摄手写笔记；清楚自然蓝黑圆珠笔；极简线稿；浅黄色只划出答案短语，浅绿色只划标题或记忆点。\nComposition/framing: 标题在上，两题答案分组纵向排列，对应场景位置与第4页一致；最后一行留充足底边；左右8%、底部10%安全留白。\nText (verbatim, preserve exact line breaks):\n“答案与判断点\n1. I need time to get over the breakup.\n强调从打击中恢复。\n2. I just need to get through this week.\n强调撑过困难阶段。\n第1题也可用 get through 表达渡过经历。”\nText accuracy: 所有中英文、数字、标点逐字准确；get over 与 get through 不得拼错或互换；不得增删改。\nConstraints: 严格继承输入图人物、聊天场景、桌前任务场景、机位、裁切、笔迹和光线；只增加答案状态与浅色划线；重叠边界必须完整；不引入新知识点。\nAvoid: 任何额外文字、页码、品牌、水印、乱码、错误勾叉、把 get through 标成错误、印刷体海报、贴纸、胶带、3D、霓虹、密集排线、底部拥挤。",
+      "human_check": "实图通过：两题完整答案、理由和第1题重叠边界逐字正确；场景与图4对应，无新增知识点。"
+    }
+  ]
+}

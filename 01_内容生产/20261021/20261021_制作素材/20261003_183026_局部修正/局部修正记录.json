@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-03",
+  "mode": "内置 imagegen 局部编辑",
+  "images": [
+    {
+      "file": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图4_自测.png",
+      "reviewed_on": "2026-10-03",
+      "status": "实图通过",
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "b1599b78458ada0bf377cce26d3914702098370befde8da8c5354646787c327c",
+      "note": "图4第一题与图5第一题的扁平卡片已用内置 imagegen 局部编辑为有厚度及电极的电池图形；图5编辑时同时参考已修正图4，保持同一场景。保留原中英文、题目选项、接电场景、笔记本及光线。已逐张查看修正版，文字、语义、无答案泄露与跨页一致性通过。\n\n状态：图4、图5实图通过；本轮局部记录不代替全套验收。"
+    },
+    {
+      "file": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图5_答案复习.png",
+      "reviewed_on": "2026-10-03",
+      "status": "实图通过",
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "02511b4aec6447b2a63de7d66035913eee9c9c451b10c089ecbeabb168b3bc68",
+      "note": "图4第一题与图5第一题的扁平卡片已用内置 imagegen 局部编辑为有厚度及电极的电池图形；图5编辑时同时参考已修正图4，保持同一场景。保留原中英文、题目选项、接电场景、笔记本及光线。已逐张查看修正版，文字、语义、无答案泄露与跨页一致性通过。\n\n状态：图4、图5实图通过；本轮局部记录不代替全套验收。"
+    }
+  ],
+  "executed_edit_prompts": [
+    {
+      "destination": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图4_自测.png",
+      "source": "/Users/zhaokunzhang/.codex/generated_images/01a10141-9568-7973-8786-fb9cb5915973/exec-8e6baf01-62fc-4b51-902c-e0a298bb5f3c.png",
+      "prompt": "Use case: precise-object-edit. Edit target: provided handwritten notebook exercise photograph. Make ONLY one tiny local semantic correction in the FIRST exercise illustration (middle right, beside '把电池装入相机'). Replace the flat memory card held by the stick figure with a clearly recognizable thick rectangular rechargeable camera BATTERY PACK drawn in the same fine blue pen: show a front face and a visible side face (3D cuboid outline), two small separated terminal contacts on its short top edge, and a small plus/minus symbol on the battery itself. No comb of SD-card contacts, no thin SD-card outline. Keep it proportional to the camera battery compartment; the existing short arrow must point from battery into camera. Retain the stick figure and camera; change the compartment opening only if necessary for this thicker battery to fit. Preserve EVERY Chinese/English word, punctuation, line break, all A/B option appearance, all text positions, the entire second exercise and its power cable, notebook, pen, paper lines, highlights, lighting, framing, and 3:4 dimensions unchanged. No answer marks, no checkmarks, no circles or highlighting of choices. Output the full original page with this single small illustration correction.",
+      "page": 4
+    },
+    {
+      "destination": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图5_答案复习.png",
+      "source": "/Users/zhaokunzhang/.codex/generated_images/01a10141-9568-7973-8786-fb9cb5915973/exec-efae3c49-2231-4711-89f9-e84d1c1a73f0.png",
+      "prompt": "Use case: precise-object-edit. Input image 1 is the EDIT TARGET: the answer/review notebook page titled 答案与判断点. Input image 2 is a SUPPORTING REFERENCE: the corrected exercise page, only for the replacement battery illustration. Make ONLY one local correction in image 1: replace the flat memory-card object in the FIRST tiny drawing with the same visibly thick rectangular battery pack used in image 2, with a visible side face, small separate terminal contacts and small polarity marks. Keep the person, arrow into the battery compartment, camera position and scale identical to image 1. Match the battery style and shape in image 2. Preserve every word, punctuation, line break and text location from image 1 exactly. Preserve the entire second drawing and power cable, all line art, notebook, physical pen, paper lines, lighting, camera angle, crop and 3:4 ratio from image 1. Do NOT copy the exercise questions or A/B options from image 2. Output only the full corrected answer page. All image 1 text stays: 答案与判断点 / 1. Put in the battery. / 把电池装进相机。 / 2. Plug in the camera. / 用线缆接上电源。 / 看放入的物品，也看是否在连接。",
+      "page": 5
+    }
+  ],
+  "backups": [
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图片提示词.md",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_制作素材/20261003_183026_局部修正/20261019_001_put_in_还是_plug_in_图片提示词.md",
+      "sha256": "5f535e68ea6f339c6172086a1bf1456a8e480d7ea3b05db160c50ce7a98662f8"
+    },
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_制作素材/制作清单.json",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_制作素材/20261003_183026_局部修正/制作清单.json",
+      "sha256": "d2af384eb9643842342a266252db939ca921856aaf763f71a92ac938761f3b3c"
+    },
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图4_自测.png",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_制作素材/20261003_183026_局部修正/20261019_001_put_in_还是_plug_in_图4_自测.png",
+      "sha256": "13252c902b0009c788a53e134754bfd56a8ad5558ae15abe91f33fb61a1ce5ce"
+    },
+    {
+      "original": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_001_put_in_还是_plug_in_图5_答案复习.png",
+      "backup": "/Users/zhaokunzhang/Workspace/Docs/xhs-english-daily-posts/01_内容生产/20261019/20261019_制作素材/20261003_183026_局部修正/20261019_001_put_in_还是_plug_in_图5_答案复习.png",
+      "sha256": "02ee8e4b930bef8ae43ded832bf3d1e35a922b928c4cba3b46a3306368200797"
+    }
+  ],
+  "dimensions_note": "沿用原生1086×1448，3:4；未重采样为目标1080×1440。",
+  "publication_status": "本轮未更改发布状态"
+}

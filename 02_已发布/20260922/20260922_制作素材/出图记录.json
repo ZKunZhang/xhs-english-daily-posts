@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-22",
+  "slug": "remind_someone_to_do_还是_remind_someone_of",
+  "generator": "built-in imagegen",
+  "reference": "01_内容生产/20260918/20260918_001_try_on_还是_try_out_封面.png",
+  "master": "浅奶油横线纸近俯拍、窄浅木桌边、自然窗光、蓝黑自然手写、极简语义线稿、少量浅绿浅黄划线、左右8%与底部10%安全留白。",
+  "pages": [
+    {
+      "page": 1,
+      "file": "01_内容生产/20260922/20260922_001_remind_someone_to_do_还是_remind_someone_of_封面.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-ac4c6577-acb7-4135-bc48-e7d393446589.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第1页封面，竖版3:4，目标1080×1440\nPrimary request: 生成一张真实纸质手写英语学习笔记的近俯拍照片，参考输入图仅用于纸张、光线、蓝黑笔迹和简笔画质感；主题改为 remind someone to do / remind someone of something。\nScene/backdrop: 浅奶油色横线笔记纸几乎占满画面，顶部或一侧只露出很窄的浅木桌边，自然窗光与极轻纸张阴影。\nSubject: 下半部两幅相连的极简线稿：左边同一位成年女性把相机装进旅行包；右边她看着一张旅行照片而想起旅途。动作和联想清楚，不画抽象流程卡片。\nStyle/medium: 真实拍摄的手写笔记页；清楚自然的蓝黑圆珠笔中文和英文，略有真实笔迹变化；极简蓝黑线稿，少量浅鼠尾草绿与浅黄色手划线。\nComposition/framing: 中文钩子为第一层，完整英文结构为第二层；中文两行最大，英文两行清楚，线稿在下方；左右各留约8%、底部留约10%安全空白。长结构自然换行但不得删词。\nLighting/mood: 柔和自然窗光，安静、可信、像认真做的个人学习笔记。\nColor palette: 浅奶油纸、蓝黑墨水、浅绿和浅黄两种低饱和划线色、浅木色桌边。\nText (verbatim, preserve exact line breaks):\n“提醒我带相机\n还是让我想起旅行？\nremind someone to do\nremind someone of something”\nText accuracy: 每个中文字和英文字母必须准确清楚。英文第一行逐字为 remind someone to do；第二行逐字为 remind someone of something。不得删词、改词、加字。\nConstraints: 单张独立成图；中文最大最醒目，完整英文结构次一级；简笔画支持语义；留白充足；不要将任一结构画成错误。\nAvoid: 任何额外文字、页码、答案、勾叉、品牌、水印、乱码；印刷体海报、便签、胶带、贴纸、电影光效、3D、霓虹、红绿对撞、粗撕裂线、巨大符号、密集阴影线、满版拥挤。",
+      "human_check": "实图通过：中文钩子与两条完整英文结构逐字正确；相机入包和照片联想语义清楚；安全区与层级通过。"
+    },
+    {
+      "page": 2,
+      "file": "01_内容生产/20260922/20260922_001_remind_someone_to_do_还是_remind_someone_of_图2_场景对比.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-5a676af5-51bc-4df1-8afd-6e58f1d08cf2.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第2页场景对比，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 remind someone to do / remind someone of something 场景对比页。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光，纸张与笔迹为主。\nSubject: 左侧同一位成年女性把同一台相机装进旅行包；右侧她看着同一相机拍出的旅行照片。动作与联想清楚，两幅极简蓝黑线稿，不加图中标签。\nStyle/medium: 清楚自然蓝黑圆珠笔手写中英文，极简线稿，少量浅绿浅黄划线，不密排线。\nComposition/framing: 标题在上；两个例句组清楚分开，英文优先、中文随后；左右8%、底部10%安全留白，长句自然换行但不删词。\nLighting/mood: 柔和自然窗光，安静可信。\nText (verbatim, preserve exact line breaks):\n“同一个相机，两种联系\nRemind me to pack the camera.\n提醒我把相机装好。\nThis photo reminds me of our trip.\n这张照片让我想起那次旅行。”\nText accuracy: 所有中英文逐字准确，句首大写和句号准确；不得增删改。\nConstraints: 继承封面的纸张、光线、蓝黑笔迹、女性外形和线稿语言；本页只改变为两个具体例句场景；两个结构都自然，不加勾叉。\nAvoid: 任何额外文字、页码、答案、品牌、水印、乱码、印刷体海报、贴纸、胶带、3D、霓虹、红绿对撞、密集排线、满版拥挤。",
+      "human_check": "实图通过：两条例句与中文逐字正确；相机入包和照片唤起旅行的场景对应准确；无伪对错。"
+    },
+    {
+      "page": 3,
+      "file": "01_内容生产/20260922/20260922_001_remind_someone_to_do_还是_remind_someone_of_图3_一句话规则.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-b4f178a8-2f2d-4859-a036-7f887f2c06be.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第3页一句话规则，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 remind someone to do / remind someone of something 规则页。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光。\nSubject: 文字为主，一侧小待办勾选框仅画空框与无字横线，另一侧小照片和无字日历线稿；所有小道具都不带文字。\nStyle/medium: 清楚自然蓝黑圆珠笔手写，少量浅绿浅黄划线，真实笔迹变化，简洁线稿。\nComposition/framing: 标题和两个结构分组清楚；边界说明完整且不挤底；左右8%、底部10%安全留白。\nLighting/mood: 柔和自然窗光，平静可信。\nText (verbatim, preserve exact line breaks):\n“先看后面接什么\nremind someone to do\n提醒要做的动作\nremind someone of something\n让人想起某人或某事\nof 也能用于未来安排，\n不能按“过去／未来”硬分。”\nText accuracy: 所有中英文和全角引号、斜杠、标点逐字准确；两个英文结构完整；不得增删改。\nConstraints: 继承封面的纸张、光线、蓝黑笔迹和线稿语言；本页只改变为简明规则；明确不是过去／未来二分。\nAvoid: 任何额外文字、页码、勾叉答案、品牌、水印、乱码、图表感、印刷体海报、贴纸、胶带、3D、霓虹、密集排线、满版拥挤。",
+      "human_check": "实图通过：两条结构、中文解释和未来安排边界完整清楚；线稿道具无文字；没有按过去／未来制造伪二分。"
+    },
+    {
+      "page": 4,
+      "file": "01_内容生产/20260922/20260922_001_remind_someone_to_do_还是_remind_someone_of_图4_自测.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-df8ec3dd-f7d5-4dc6-a177-92986303eefc.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第4页自测，竖版3:4，目标1080×1440\nPrimary request: 延续输入封面的真实手写学习笔记风格，制作 remind 两种结构的两题自测页，绝不显示答案或暗示。\nScene/backdrop: 浅奶油横线笔记纸近俯拍，窄浅木桌边，自然窗光。\nSubject: 上方小线稿为门口钥匙和同一位成年女性准备出门；下方为同一女性戴耳机听歌，旁边用无字房屋轮廓表达想到家。线稿小而简洁，不含任何文字标签。\nStyle/medium: 清楚自然蓝黑圆珠笔手写，极简蓝黑线稿，少量浅绿浅黄仅划标题，不用于区分选项。\nComposition/framing: 标题、第一题和A/B选项、第二题和A/B选项依次纵向排列；所有选项同色同字重；左右8%、底部10%安全留白。\nLighting/mood: 柔和自然窗光，像真实学习者自测笔记。\nText (verbatim, preserve exact line breaks):\n“换个场景，选更贴切的一项\n1. 提醒我出门前带钥匙：\nRemind me ___.\nA. to take my keys\nB. of home\n2. 这首歌让我想起家：\nThis song reminds me ___.\nA. to take my keys\nB. of home”\nText accuracy: 所有中英文、数字、句点、冒号、三个下划线逐字准确；不得增删改。\nConstraints: 继承封面的纸张、光线、笔迹、同一女性；本页建立测试场景，供第5页严格继承；不填空，不勾选，不圈选，不高亮任何答案，不用颜色暗示，A和B视觉完全中性。\nAvoid: 任何额外文字、答案、勾叉、圈选、箭头指向答案、品牌、水印、乱码、印刷体海报、贴纸、胶带、3D、霓虹、红绿对撞、密集排线、满版拥挤。",
+      "human_check": "实图通过：两题及四个选项逐字正确；两题均未填空，A/B同色同字重，无勾叉圈选或颜色暗示；场景对应清楚。"
+    },
+    {
+      "page": 5,
+      "file": "01_内容生产/20260922/20260922_001_remind_someone_to_do_还是_remind_someone_of_图5_答案复习.png",
+      "original_output": "/Users/zhaokunzhang/.codex/generated_images/01a0ada8-68d3-7e31-800f-952674a31462/exec-d8298c71-7016-4626-8662-5f0195ee7ff7.png",
+      "dimensions": "1086x1448",
+      "aspect_ratio": "3:4",
+      "prompt": "Use case: scientific-educational\nAsset type: 小红书英语学习图文，第5页答案复习，竖版3:4，目标1080×1440\nPrimary request: 以输入的第4页为严格场景参考，制作对应答案页。保留同一浅奶油横线纸、近俯拍、窄木桌边、自然窗光、蓝黑手写、人物外形与两幅场景：上方门口钥匙和女性准备出门，下方同一女性戴耳机想到家。只把自测文字替换为完整答案和理由。\nStyle/medium: 真实拍摄手写笔记；清楚自然蓝黑圆珠笔；极简线稿；浅黄色只划出答案短语，浅绿色只划标题或记忆点。\nComposition/framing: 标题在上，两题答案分组纵向排列，对应场景位置与第4页一致；最后一行留充足底边；左右8%、底部10%安全留白。\nText (verbatim, preserve exact line breaks):\n“答案与判断点\n1. Remind me to take my keys.\n提醒要执行的动作。\n2. This song reminds me of home.\n让人想起一个地方。\n看动作或对象，不只看时间。”\nText accuracy: 所有中英文、数字、标点逐字准确；Remind句首大写，This句首大写；to take my keys 与 of home 不得拼错或互换；不得增删改。\nConstraints: 严格继承输入图人物、门口钥匙场景、耳机与家场景、机位、裁切、笔迹和光线；只增加答案状态与浅色划线；不引入新知识点。\nAvoid: 任何额外文字、页码、品牌、水印、乱码、错误勾叉、印刷体海报、贴纸、胶带、3D、霓虹、密集排线、底部拥挤。",
+      "human_check": "实图通过：两题完整答案、中文理由和记忆点逐字正确；门口钥匙及耳机想到家场景与图4对应；无新增知识点。"
+    }
+  ]
+}

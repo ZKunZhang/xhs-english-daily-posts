@@ -1,0 +1,242 @@
+{
+  "authorized_on": "2026-10-09",
+  "moves": [
+    {
+      "old_date": "20261011",
+      "new_date": "20261013",
+      "old_prefix": "20261011_001_fold_up_还是_roll_up",
+      "new_prefix": "20261013_001_fold_up_还是_roll_up",
+      "png_sha256": [
+        "327e25424486602b43219b99a9e3eed09437e402a7e7d639db4dc5e3d1e2f562",
+        "4015aabf797a031999ebd65314752b8207000f64b71c972398c8d7a4a63a2efa",
+        "889980373e0788d26c5869f2dda04998b62b82e4ed44b36cf850b3490ccf621f",
+        "c9e12ab50a12cdf71d27c276dcb22dee529a9a00a0a5056205d2e8cf18d0f4b2",
+        "f0b288d6581866ea23bac548b3617f602022aad4f0a94aa21ef46df723773109"
+      ],
+      "post_sha256": "ff4fb3c1d5a5b011b4f2271b9fcfd9454b453ee11c9d70cc4f0228a9516de3fb"
+    },
+    {
+      "old_date": "20261012",
+      "new_date": "20261014",
+      "old_prefix": "20261012_001_take_up_还是_take_on",
+      "new_prefix": "20261014_001_take_up_还是_take_on",
+      "png_sha256": [
+        "2a9c84419a0830127165ab05cbe2ffe91e6d034a6aa139584795c799d1ef5891",
+        "92fee71a586c402905da51c1e8187339192e49401adf09c5f0492cff25e91b2e",
+        "9d4633297246e7369f6f926c892006cf50b94b11d9cba5ee67ad684f2de22c4e",
+        "b2ec7151eb531ef5531558f1484b4a7f0f2181b67dc42d22bf5f5662badf1ff9",
+        "bbf9891d2814fc66675b20e99001079350bbc202e40aa3f34f9d988d785673cf"
+      ],
+      "post_sha256": "f88d2b196d1f841e947023b220599b04365a2d691a20064b489035fe796513c2"
+    },
+    {
+      "old_date": "20261013",
+      "new_date": "20261015",
+      "old_prefix": "20261013_001_be_sorry_to_hear_还是_be_sorry_for_doing",
+      "new_prefix": "20261015_001_be_sorry_to_hear_还是_be_sorry_for_doing",
+      "png_sha256": [
+        "012ab34291f21f141d1d5f9757bdf83e037140c2d82c27c9729d7d01508816b7",
+        "147e8cd9291ace50797341c82fa15e5c60f4cd33298e301a2ab21c1568a91daf",
+        "1bafb60ca0c1c35c79dbd0f3a7949cb5768f87d2d569927dd6718ae3e8c92e1e",
+        "2948c425b0019cce34644c982260972a4c3c6e18df18f5c294f75549ecc5adef",
+        "32da28156154bab531ac3139205c969c98d924c4c67e5df323e8425062ccccaf",
+        "3892f15aebbdf300e2778d9b10a9e2ca557674c0609b794482f06a3e371107a1",
+        "639dec53c4eededf1b4b992fec054f6b13563acda1978b584101cd80809f3a57",
+        "651204a60e5194e8ea1395d34303fa0eea5c0e8d5b989e66dfb3bc0bfbc22219",
+        "71a14bd6cab36feb28787efe044c09e193863e70421ee581a9642b411bd4748b",
+        "756ab11330cea84d12c92ef3749045f9954f702daa5ad02b3f0083c081c62c3a",
+        "c8a1a3ac0c05531130dfc7e847bb1f16a243e2f2e9621f12877f0f93bd818cfb",
+        "ec3a6ceed630e162d135829d38530af48fa3dbddc1f1d874c889171d76af9277",
+        "ff67ff6dce8b8c05e172e20394c77a8a35af43d56adbcb1ede4cd38bcd7fb6f7"
+      ],
+      "post_sha256": "1784a21abd6d9004df042406429f603d6b2251ed73bd05a8961a5ea63cabd71e"
+    },
+    {
+      "old_date": "20261014",
+      "new_date": "20261016",
+      "old_prefix": "20261014_001_get_along_with_还是_put_up_with",
+      "new_prefix": "20261016_001_get_along_with_还是_put_up_with",
+      "png_sha256": [
+        "18eb7ddc9d2b8e5c1e4397e2123c80559ceaeefa2d612eb9ced1eaf0c2a2af84",
+        "6426985943ffa4cb496ca4511204d7d8f37e57adfc8ada0135e249a562dbaa72",
+        "73942dffa344703889c7dfd6c68fbc3251749617202437a3c155e19589cb4f4a",
+        "81017126ba325d84ab8c138806dcdf4a234059291ad3aff53970bc7052b4b767",
+        "bf1459ebdc51cb0f9ceb221c25797820506ad7a52e4655a377b20d884654a0b1"
+      ],
+      "post_sha256": "06a78518f116478ee0d0b44d180f6954b1913e90de3fe4819b72b258ebfead5c"
+    },
+    {
+      "old_date": "20261015",
+      "new_date": "20261017",
+      "old_prefix": "20261015_001_come_along_还是_come_over",
+      "new_prefix": "20261017_001_come_along_还是_come_over",
+      "png_sha256": [
+        "2a144178e983e4de663c28e7c6ee3f137e1bfc133dc84be4945b4f19549f5b9e",
+        "2ae21ecfe8a5e982cb6a61623f462d5158a041744e205ce371ac987046beaa03",
+        "4ef42466c26f4e6dd3e49af3aff2422a6b1f3fde767a67462bb52bbe0bf383a8",
+        "5e00e69385ab3e223cd955b6b3ab0b2afbc8befb5edc2a863ae08df1cb2db225",
+        "80a0307bcd705d68470cdff590ff79dca3c619ad39f9fd9d7eb972ea88d8cd0c",
+        "982c87e4d19140036b677acd9fc1d5c88d0168689352395164354a2e261dc188",
+        "d79b3ea8b0ee282fd5d258d582749f9f87dbbef29ec066f1e770f826bdf08d59"
+      ],
+      "post_sha256": "0e4d3b6d94682921e4a4a0c8850dccfafdb1796e8efbdf6359ce1b765869f226"
+    },
+    {
+      "old_date": "20261016",
+      "new_date": "20261018",
+      "old_prefix": "20261016_001_set_off_还是_go_off",
+      "new_prefix": "20261018_001_set_off_还是_go_off",
+      "png_sha256": [
+        "04e4825baf6326cf9a80e0c161f0534696dfc8cb37af75502f07e7d5667f2389",
+        "08b9d5c208a4e70808d9deb103173c377736a1ede951c295a5c406f521904692",
+        "1efdc70e4157088e409ececa2b938491a6419f9d4a9f4f5b040d8a7b3dc82d84",
+        "b659e0777b72775e86584907a9346c80261679fc2bfff1ebb59692622e14543d",
+        "e54e915676779170ac870b946c30beeacf7675383f93c22969444627a4cd60ee"
+      ],
+      "post_sha256": "918d8153e406540faa07753925dcac448c0d7c2742e817dfd0b0935b631ebb69"
+    },
+    {
+      "old_date": "20261017",
+      "new_date": "20261019",
+      "old_prefix": "20261017_001_leave_for_还是_leave_from",
+      "new_prefix": "20261019_001_leave_for_还是_leave_from",
+      "png_sha256": [
+        "0c863cf803dc71180b0b96075c2fc54d06acc60b954d08b2317d0f0000625452",
+        "b192ffc680f5d40d288bc7dd65ce7098af663d512ff012c897ee412dd5fec9bb",
+        "ddc2d94bcb97495607349ccc0bb11953063c78d3189281a4d8135e5dbe0be2e9",
+        "f4a31fce220a21f766bd7d84519b81f32325a97eb1a7027c4370ddb92e407739",
+        "fa25ed4031bfef0d65e5037f8c38b18766581b690ef6f55fc7459e19d164fdae"
+      ],
+      "post_sha256": "8587b8c25792e9c47db254dc20e4538e768d3535a9fded05fe040e59db3bb7cd"
+    },
+    {
+      "old_date": "20261018",
+      "new_date": "20261020",
+      "old_prefix": "20261018_001_cross_out_还是_rub_out",
+      "new_prefix": "20261020_001_cross_out_还是_rub_out",
+      "png_sha256": [
+        "4b6b24d1013bf4724edd729ed5d0c07a6abc00f4fbd2cab49392a18fd11727c2",
+        "72de5177e1ae2c1fd2dc6bf89e52bfc68880fda90fca85d8048f8124fe77f5e8",
+        "8b4b534ea4afa2de88a5645646b6a03781a30d90e1375a37845c1d4ce35596ff",
+        "e12b449e508e8934bb57712f9ca22ebb3770da4d4e381afa3fadff8876ee2f14",
+        "e391afb4407edf18624223014ed16cc8aad90786f8e17def3d839ff17e4eb80f",
+        "f77206470a975826586b16133a6794677c4bfaecb7f2e99ab76c9bc870d0d434"
+      ],
+      "post_sha256": "9fe5d959685a972f64745858269f3024c97dad1f15990bf1c7accbb81aee0fbe"
+    },
+    {
+      "old_date": "20261019",
+      "new_date": "20261021",
+      "old_prefix": "20261019_001_put_in_还是_plug_in",
+      "new_prefix": "20261021_001_put_in_还是_plug_in",
+      "png_sha256": [
+        "02511b4aec6447b2a63de7d66035913eee9c9c451b10c089ecbeabb168b3bc68",
+        "02ee8e4b930bef8ae43ded832bf3d1e35a922b928c4cba3b46a3306368200797",
+        "13252c902b0009c788a53e134754bfd56a8ad5558ae15abe91f33fb61a1ce5ce",
+        "237dcef5a53a88a58c9369a0942d49e016d15190aa991d2afb1e957a6c3d3bf0",
+        "3b74d04984c07c8ec25b9cabbe43e5d0b836e05f63919f55fd54297b033d00c8",
+        "54ffb39c40be2743aad7b81a35b9ab3da22c26a12d3123936c807eb9a3cb95e5",
+        "b1599b78458ada0bf377cce26d3914702098370befde8da8c5354646787c327c",
+        "e3cd13b5e4218008f0d7d0f05399f50188135344200ffa81f9db1e74447d9c0c"
+      ],
+      "post_sha256": "c898be219530cc4a3686a5a9c35ca0b768ca145c536de25b701ca99d9e3e2b17"
+    },
+    {
+      "old_date": "20261020",
+      "new_date": "20261022",
+      "old_prefix": "20261020_001_cut_up_还是_cut_off",
+      "new_prefix": "20261022_001_cut_up_还是_cut_off",
+      "png_sha256": [
+        "364c6d37504f0f6ffa68e6e6319e82caa3ad878dc46983ab1b9c95081bbf1862",
+        "6f40fae79ff5f43e3538bd4b25cbe4d0533c8ba3c2ba88c49fd2a04c1a8500b5",
+        "871848411c84ceceb7b3eca58de43632dc3e09e9ffa88e2dc09bec06cf89f45e",
+        "9e7bd2ed0b32a62f48c1f7137a0e430e3fc7abd536aec428b00233e501e3d3fb",
+        "c41d1cea497bd5d2960b3066334b6e470bf456c56cdee1ef555829df9795c995"
+      ],
+      "post_sha256": "3b26511711b75eb15e07588f874702ec0f2d49f7829d66006984e4f70e38948e"
+    },
+    {
+      "old_date": "20261021",
+      "new_date": "20261023",
+      "old_prefix": "20261021_001_back_out_还是_back_off",
+      "new_prefix": "20261023_001_back_out_还是_back_off",
+      "png_sha256": [
+        "07599a2e5d10e652b7e6bcefd51919df1db2640dc94293594d4c3bdeb1a3bcdb",
+        "41150eb2f55d8c3c005152e8edd521c6508af462948cf08794db2a122947fafc",
+        "6eff200d21022c923d60414cc849f30ded0dd98fbe640229bbd1f6d54600c1ae",
+        "88a973d02345261460bbdd87e713a07829779a3be2665a74eb87d79534cd1875",
+        "cfde8908b4f56e01f36164a95d899be172b7d32fd172816a28cace1f7f81facb",
+        "fbf4dff9a893d92f8ba152c1147cc24bf0eca4ef42187806d47a1e19697300f2"
+      ],
+      "post_sha256": "03eb7775a9c97f36f58a04f349a1fdc3bff32f3c17e885a9b677d5ba190a99a6"
+    },
+    {
+      "old_date": "20261022",
+      "new_date": "20261024",
+      "old_prefix": "20261022_001_send_back_还是_send_out",
+      "new_prefix": "20261024_001_send_back_还是_send_out",
+      "png_sha256": [
+        "5e0cbb3da6e1f5179ab80955ef5b9fdcd23eff40805685210c207eb7a75c4737",
+        "88e1fa59c7dfc68c0136ecb5d7d98d5b4d1ef8534dd0805f873eb0f400aeffdf",
+        "948ef6d22f35d1ce2713b0ca7ca85953523fc1017ce5f3ff33edfb531190a802",
+        "948ef6d22f35d1ce2713b0ca7ca85953523fc1017ce5f3ff33edfb531190a802",
+        "981a393ffe21804977e0f19f45f126632b1f8a5f45ec29c0ad1fe80860c274ac",
+        "aea0f797671ac970c3430e236fe46acb02fc8987e7bd3dc289895aa855ab5b78",
+        "fbaa853d71054f49ae1eb413e9c2ad365927cc4dc6aef5b246a1f51f02b14f07"
+      ],
+      "post_sha256": "5b35ea229232b2b09847b6e69837b4aec39c6182a3b9114d9d5b4a43590ac938"
+    },
+    {
+      "old_date": "20261023",
+      "new_date": "20261025",
+      "old_prefix": "20261023_001_carry_on_还是_carry_out",
+      "new_prefix": "20261025_001_carry_on_还是_carry_out",
+      "png_sha256": [
+        "07a691d2bcf639f896fda9a2611c3bf7a202d5929aff0641e316c2b3b8139c6f",
+        "3f3ad975c4d2cad470eb14486ff84e19d802d699f756c3b3ba8d6e1abcd7a84a",
+        "925bc9d80cac8e60a9ca09fc77499b9d03d58a52d8d62cdb610b651312f04915",
+        "e16030078413b435f579663b7c2f31fd344938f8a028a9d760f1f0e94a337157",
+        "e9329ba976ce6830b8eb2b2fed2fce08e217049aea1ed80893f222bf0a380a8b"
+      ],
+      "post_sha256": "f15e44ad686411a605e311a2d43d1a930a42e23e31e10f2716e69f0abdfe0008"
+    },
+    {
+      "old_date": "20261024",
+      "new_date": "20261026",
+      "old_prefix": "20261024_001_move_over_还是_move_on",
+      "new_prefix": "20261026_001_move_over_还是_move_on",
+      "png_sha256": [],
+      "post_sha256": "986c5dd10cee66d06a8c15bac7dff337b2bb71ef44da4a76db3578d9922e164d"
+    },
+    {
+      "old_date": "20261025",
+      "new_date": "20261027",
+      "old_prefix": "20261025_001_pull_up_还是_pull_down",
+      "new_prefix": "20261027_001_pull_up_还是_pull_down",
+      "png_sha256": [],
+      "post_sha256": "88d079c1347d4824c870af9cbb7ee81accb2ce964053c9070a6a1f568ab732c6"
+    },
+    {
+      "old_date": "20261026",
+      "new_date": "20261028",
+      "old_prefix": "20261026_001_count_on_还是_count_in",
+      "new_prefix": "20261028_001_count_on_还是_count_in",
+      "png_sha256": [],
+      "post_sha256": "29eb4ffcd62d63cb98ec1d5475d468ce6b931f8a2db540cbef4afe3224d634d7"
+    }
+  ],
+  "restored": {
+    "old_date": "20261010",
+    "new_date": "20261012",
+    "old_prefix": "20261010_001_make_up_with_还是_make_up_for",
+    "new_prefix": "20261012_001_make_up_with_还是_make_up_for",
+    "png_sha256": [
+      "6f569037143ca98b05731a580eda09fba1f2b52c6b8c27bd5ea8b51053b228ca",
+      "91896b277850560d0962303e4a60c6fbbfef6f0550c7f2dcbafbfbd16d75aacc",
+      "cf4c345681f188fb7ac9f749f86ff1787a228282930dda792790b2f647cef5b8",
+      "d979408bb2c3d32f2ee256d9c73d004bb04237dc8ce11bd93cf7b62e0abf9b17",
+      "f6562e0922abbea99a4c70664ce648a6b38b09fa5f7bb510f6e81ea66030647a"
+    ],
+    "post_sha256": "e47136d71a8d9dd98ef992516fe5ab89e1fb3b4234283cdf7bc7de34c8c9a4ed"
+  }
+}

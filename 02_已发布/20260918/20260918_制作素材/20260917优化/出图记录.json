@@ -1,0 +1,37 @@
+[
+  {
+    "page": 1,
+    "prompt": "Generate ONE portrait 3:4 Xiaohongshu English learning cover, target 1080x1440. Use the reference ONLY for paper and authentic legible blue-black handwritten notebook photographic style. New content, improved hierarchy. Light cream ruled notebook paper occupies 95%, narrow desk border, near overhead soft daylight. Chinese hook is largest at upper third, complete English A/B immediately below, two small simple blue ink sketches below on same baseline: adult woman trying a plain jacket before mirror at left, same woman testing a compact camera at right. Draw only key gestures, no dense hatching, no decorative objects, no irrelevant text or dates. Keep 8% horizontal margins and 10% bottom empty. Sage/yellow underlines used sparingly. Exact text, each once: 「都说“试一下”」 then 「试穿，还是试用？」 then 「try on / try out」 then left caption 「看合不合身」 right caption 「看好不好用」. All text naturally handwritten, no printed fonts. Do not repeat A/B at bottom. Text readable as phone thumbnail. Style continuity with reference but clearer airier page and simplified linework.",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0ad54-ab88-7ca3-940d-7631333d36af/exec-7ec40853-5aed-41f1-b09f-63761d08aa11.png",
+    "status": "实图通过",
+    "notes": "准确文字、语义与3:4检查通过。"
+  },
+  {
+    "page": 2,
+    "prompt": "生成一张独立的3:4竖版英语学习手写笔记照片，目标1080x1440。参考图只用于继承浅奶油横线纸、自然窗光、窄木桌边缘、蓝黑自然清楚手写体、少量浅绿和浅黄划线，以及丸子头成年女性线稿。文字优先，线稿简洁，不画密集阴影或装饰背景，不新增文案。所有文字准确完整；左右8%、顶部7%、底部10%安全留白。只有页内指定文字，不加页码、标题重复、标签或水印。\n准确文案：\n试穿看合身，试用看效果\nCan I try this jacket on?\n我能试穿这件外套吗？\nCan I try this camera out?\n我能试用这台相机吗？\n构图：上下两个例句组，每组英文两行以内，中文一行。上方女人在镜子前试穿外套，下方同一女人操作相机看取景屏。两组图小于文字区，不重复封面主标题。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0ad54-ab88-7ca3-940d-7631333d36af/exec-a237cb9c-d1ef-476f-8f1f-ef689422f5ef.png",
+    "status": "实图通过",
+    "notes": "准确文字、语义与3:4检查通过。"
+  },
+  {
+    "page": 3,
+    "prompt": "生成一张独立的3:4竖版英语学习手写笔记照片，目标1080x1440。参考图只用于继承浅奶油横线纸、自然窗光、窄木桌边缘、蓝黑自然清楚手写体、少量浅绿和浅黄划线，以及丸子头成年女性线稿。文字优先，线稿简洁，不画密集阴影或装饰背景，不新增文案。所有文字准确完整；左右8%、顶部7%、底部10%安全留白。只有页内指定文字，不加页码、标题重复、标签或水印。\n准确文案：\n同一双鞋，也能换说法\ntry on\n穿上，看看合不合脚\ntry out\n实际用用，看看表现如何\n先试穿，再穿去跑一圈：\n两种说法都可能用到。\n构图：中间同一双无品牌运动鞋的两个小场景：坐在试鞋凳上套脚，对照户外脚穿鞋跑两步。图示解释目的不同，同一个物品，不用勾叉。规则+具体重叠作为新收获，不重复外套相机。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0ad54-ab88-7ca3-940d-7631333d36af/exec-763522de-1148-48c6-9e56-2d7caff078c0.png",
+    "status": "实图通过",
+    "notes": "底部留白约6%—8%，低于约10%目标，但文字完整清楚，未裁切；记录为局部偏差，不作后续默认。"
+  },
+  {
+    "page": 4,
+    "prompt": "生成一张独立的3:4竖版英语学习手写笔记照片，目标1080x1440。参考图只用于继承浅奶油横线纸、自然窗光、窄木桌边缘、蓝黑自然清楚手写体、少量浅绿和浅黄划线，以及丸子头成年女性线稿。文字优先，线稿简洁，不画密集阴影或装饰背景，不新增文案。所有文字准确完整；左右8%、顶部7%、底部10%安全留白。只有页内指定文字，不加页码、标题重复、标签或水印。\n准确文案：\n换个场景，选更贴切的一项\n1. 看帽子戴着合不合适：\nCan I ___ this hat?\nA. try on    B. try out\n2. 测试新软件是否好用：\nLet's ___ this new app.\nA. try on    B. try out\n构图：两题上下排，右侧小线稿帽子/手机，手机只画抽象几何界面不含文字。题目与选项均同色同字重，不勾选，不高亮答案，无答案提示。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0ad54-ab88-7ca3-940d-7631333d36af/exec-65ebff72-67ae-4195-9b0c-ce22cd9291b7.png",
+    "status": "实图通过",
+    "notes": "准确文字、语义与3:4检查通过。"
+  },
+  {
+    "page": 5,
+    "prompt": "生成一张独立的3:4竖版英语学习手写笔记照片，目标1080x1440。参考图只用于继承浅奶油横线纸、自然窗光、窄木桌边缘、蓝黑自然清楚手写体、少量浅绿和浅黄划线，以及丸子头成年女性线稿。文字优先，线稿简洁，不画密集阴影或装饰背景，不新增文案。所有文字准确完整；左右8%、顶部7%、底部10%安全留白。只有页内指定文字，不加页码、标题重复、标签或水印。\n准确文案：\n答案与判断点\n1. Can I try on this hat?\n试戴，看是否合适。\n2. Let's try out this new app.\n试用，看效果如何。\n记住目的：试穿试戴 / 实际测试\n物品相同，也可能因目的不同而换用。\n构图：严格继承第4页两题帽子和手机线稿位置与机位、同样的横线笔记纸和蓝黑手写。只加入完整答案句、答案短语浅色划线及简短理由，不新增其他知识点。",
+    "source": "/Users/zhaokunzhang/.codex/generated_images/01a0ad54-ab88-7ca3-940d-7631333d36af/exec-1f1dc7cf-f7ab-4f6f-9d67-495534a69056.png",
+    "status": "实图通过",
+    "notes": "底部留白约6%—8%，低于约10%目标，但文字完整清楚，未裁切；记录为局部偏差，不作后续默认。"
+  }
+]

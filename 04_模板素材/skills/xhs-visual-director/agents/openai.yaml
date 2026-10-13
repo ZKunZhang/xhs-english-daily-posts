@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语辨析视觉策略"
+  short_description: "结合本账号内容、实图与数据，判断封面和内页具体该改什么"
+  default_prompt: "Use $xhs-visual-director to diagnose this English A/B cover and specify the visual changes."
